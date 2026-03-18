@@ -1010,7 +1010,7 @@ As the conversation draws to a close, [[Arrigal]] emerges from the shadows of a 
 
 As the conversation unfolds, [[Arrigal]] makes clear his belief that Van Richten has kidnapped [[Arabelle]] for nefarious purposes. Although [[Arabelle]] protests [[Arrigal]]'s accusations, [[Arrigal]] replies, "Hush, girl—it is clear this man has deceived you. I cannot speak to what nefarious plans he had for you, but he has clearly preyed upon your naivete. You will return to camp with me at once."
 
-If the players ask Van Richten for proof that Strahd sought to kidnap [[Arabelle]], Van Richten retrieves the wooden box containing Yan’s severed head from the hidden compartment of his wagon, as described in V7. Tower, Fourth Floor (p. 171). He then offers to allow one of the players to use his *talisman of echoes* to interrogate Yan's head to obtain the evidence they seek.
+If the players ask Van Richten for proof that Strahd sought to kidnap [[Arabelle]], Van Richten retrieves the wooden box containing Yan’s severed head from the hidden compartment of his wagon, as described in [[11_Chapter 11 - Van Richten's Tower#V7. Tower, Fourth Floor|V7. Tower, Fourth Floor]] (p. 171). He then offers to allow one of the players to use his *talisman of echoes* to interrogate Yan's head to obtain the evidence they seek.
 
 > [!item]+ **Talisman of Echoes**
 >
@@ -1036,7 +1036,7 @@ Yan might also reveal the following information if asked using one of the player
 
 * Yan served Strahd loyally because he was promised riches and power in exchange for his service.
 * Yan didn't know what Escher or Strahd planned to do with [[Arabelle]].
-* Yan received his orders at dusk on the day before the players first arrived in Vallaki (i.e., on the same day the players received their Tarokka reading and first encountered Strahd).
+* Yan received his orders at dusk on the day before the players first arrived in Vallaki (i.e., on the same day the players received their Tarokka reading and first encountered Strahd: Neyavr 1).
 
 If Yan reveals his loyalty to Strahd and his instructions to kidnap [[Arabelle]], [[Arrigal]] is shaken, but not entirely convinced—until [[Arabelle]] speaks up to confirm Van Richten’s story, calmly reporting that Yan kidnapped her, Van Richten rescued her, and she overheard Yan asking another man whether “the lord” would pay his debts in exchange for the “whelp’s delivery” before hearing the exchanging of coins shortly thereafter.
 ### Brokering an Agreement

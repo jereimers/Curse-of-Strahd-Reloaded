@@ -17,5 +17,6 @@ publish: true
 14. 2/18/26 - [[Player Wiki/Session Recaps/Session 14 - Dinner and a Show|Session 14 - Dinner and a Show]]
 15. 2/19/26 - [[Player Wiki/Session Recaps/Session 15 - Killing Izek|Session 15 - Killing Izek]]
 16. 3/4/26 - [[Session 16 - The Lady, the Witch, and the Ringmaster]]
+17. 3/11/26 - [[Session 17 - The Tower and The Truth]]
 
 *indicates session played but recap not yet written.

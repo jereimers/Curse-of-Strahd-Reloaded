@@ -15,7 +15,7 @@ West of Lake Baratok is a cave complex that the werewolves of Barovia use as a d
 The werewolves call themselves the Children of Mother Night, because they all worship that deity. Recently, a schism formed within the pack as the result of a challenge to Kiril's leadership. The rift began when another werewolf, Emil Toranescu, questioned the treatment of children kidnapped by the pack.
 
 Kiril would arm the children with weapons and force them to fight each other to the death until only one child was left standing. The winner would then be turned into a werewolf, ensuring what Kiril called "the strength and purity of the pack." Emil advocated keeping all the children alive and turning them into werewolves, thus increasing the pack's size. Emil believed that a larger pack would ensure the werewolves' survival, whereas Kiril saw a larger pack as too difficult to control and feed.
-![img-101.jpeg](img-101.jpeg)
+![[15-003.kiril-stoyanovich.png]]
 
 This ideological divide couldn't be reconciled and led to many disagreements. The other werewolves were split between the two camps, and it seemed likely that either Kiril or Emil would die before the conflict could be resolved.
 
@@ -28,14 +28,22 @@ Then Kiril disappeared for several days, causing the other werewolves to wonder 
 Kiril reestablished his dominance, but his ideas and tactics didn't sit well with the pack's older members, and they certainly didn't please Emil's mate, Zuleika Toranescu. She knows she can't slay Kiril on her own, and after what happened to Emil, the rest of the pack is unwilling to challenge Kiril's ar-11 "rity and face Strahd's wrath. Kiril won't let Zuleika hunt, so she's more or less confined to the den.
 
 %% --- Page 280 --- %%
-#[[WotC - 15 - Werewolf Den - TRAVEL THROUGH THE MISTS]]
+## TRAVEL THROUGH THE MISTS 
 
-#[[WotC - 15 - Werewolf Den - Approaching the Den]]
+The werewolves serve Strahd out of fear, believing that Mother Night has blessed him with godlike powers and eternal life. Although he can't leave Barovia, Strahd can allow certain creatures to come and go, such as the Vistani. He periodically allows the werewolves to slip past the misty borders as well, so that they can bring or lure others into his domain. Unlike the Vistani, however, the werewolves can't come and go as they please.
+
+## Approaching the Den
+
+When the characters first approach the werewolf den, read:
+
+Above the tree line, carved into the side of a rocky mountain spur, is a wide, torchlit cave that looks like the gaping maw of a great wolf.
+
+One hundred feet above the cave mouth (area Z1), farther up the sloping mountainside and not visible from the cave mouth or its vicinity, is a rocky ledge (area Z8). A character can scale the slope to reach the ledge without the need for a climber's kit or ability checks.
 
 ## Areas of the Den
 
 The following areas correspond to labels on the map of the werewolf den below.
-![img-102.jpeg](img-102.jpeg)
+![[map-15.01-werewolf-den.jpg]]
 
 %% --- Page 281 --- %%
 Mounted to the walls throughout the den are iron brackets containing lit torches. All areas are brightly lit, though shadows abound.
@@ -113,9 +121,8 @@ A crude wooden statue stands between the cages. It bears the rough likeness of a
 The ceiling here is 20 feet high. The statue is a crude depiction of Mother Night. Kneeling before it is a werewolf in human form named Zuleika Toranescu, who is the wife of Emil (see chapter 4, area K75a). Believing her mate to be dead by Strahd's hand, she prays to Mother Night for guidance, hoping that the goddess might hold enough sway over Strahd to persuade him to free her beloved.
 
 %% --- Page 283 --- %%
-![img-103.jpeg](img-103.jpeg)
-
-#### ZULEIKA TORANESCU 
+![[15-002.zuleika-toranescu.png]]
+ZULEIKA TORANESCU 
 
 Kiril has ordered Zuleika to guard the prisoners. If the characters rescue Emil and return him safely to Zuleika, she gladly releases the children. If the characters confirm that Emil is truly dead, either by their hand or Strahd's, she still might let the prisoners go if the characters help her deal with Kiril Stoyanovich, whom she blames above all. Zuleika sees the characters as the answer to her prayers and asks them to kill Kiril when he returns from his latest hunt (see "Leader of the Pack" in the "Special Events" section below).
 

@@ -55,9 +55,7 @@ From [[Session 13 - The Lost and The Found|Session 13]], the party learned:
 
 The party returned to this location while traveling to [[Lake Baratok]] with [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]]:
 
-- As they crossed the Luna River bridge, they were ambushed by [[Vine Blights]] and [[Twig Blights]] emerging from the surrounding forest
-- [[Arden Nalero]] channeled divinity to Turn the Unholy, causing most of the blights to flee in terror
-- The party defeated the remaining blights that resisted the turning effect
+- As they crossed the Luna River bridge, they were ambushed by Scarecrows and [[Twig Blights]] emerging from the surrounding forest
 - The attack suggested that the area remains dangerous, with undead and constructed creatures still active in the wilderness
 
 # Notable Places

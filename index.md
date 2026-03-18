@@ -24,7 +24,7 @@ publish: true
 
 # What Happened Last Session
 
-![[Session 16 - The Lady, the Witch, and the Ringmaster#Session Summary]]
+![[Session 17 - The Tower and The Truth#Session Summary]]
 
 ---
 # Currency Exchange Table

@@ -70,14 +70,17 @@ From [[Session 13 - The Lost and The Found|Session 13]], the party learned:
 - Her father [[Luvash]] is grief-stricken and desperate to find her
 - The party has promised to bring Arabelle home safely
 
-## New Leads (From Session 16)
+## The Discovery (From Session 17)
 
-From [[Session 16 - The Lady, the Witch, and the Ringmaster|Session 16]], the party discovered:
+From [[Session 17 - The Tower and The Truth|Session 17]], the party finally found Arabelle:
 
-- Evidence that [[Rictavio]]'s carnival wagon was at [[Lake Baratok]] near [[Khazan]]'s tower
-- The connection between Rictavio, Khazan's tower (whose sigil was on the ring at the abduction site), and Arabelle's kidnapping
-- A handkerchief at the [[Luna River]] crime scene bearing the initials "R.V.R." - matching "Rudolph Van Richten," the author of a werewolf manuscript the party received
-- Arabelle's current whereabouts remain unknown, but the party has identified suspects who must be connected to her disappearance
+- At [[Van Richten's Tower]], the party discovered a [[Burned Journal Page]] bearing Van Richten's handwriting, a sketch of Rictavio's carnival sign, Arabelle's beaded bracelet wrapped around a silvered dagger and the [[21-022.hooded-one.png|Hooded One]] Tarokka card, and paint pots in the lake proving Rictavio had been there
+- Armed with overwhelming evidence, the party confronted [[Rictavio]] at the [[Arasek Stockyard]]
+- When pressed, Rictavio removed his *hat of disguise*, revealing his true identity as **Dr. Rudolph van Richten**, the legendary monster hunter
+- Arabelle was found safe inside Van Richten's carnival wagon, where he had been protecting her from [[Strahd von Zarovich|Strahd]]'s servants
+- Arabelle revealed she had deliberately left clues (the bracelet, Tarokka card, and other items) at the tower, knowing someone would follow the trail to find her
+- Van Richten had rescued Arabelle from [[Yan]] and [[Escher]], who were attempting to bring her to [[Castle Ravenloft]] on Strahd's orders
+- The party learned that Strahd had issued a bounty for a girl matching Arabelle's exact description (dark-haired, olive-skinned, with lavender irises)
 
 ## Personal Details
 
@@ -92,7 +95,9 @@ From [[Session 16 - The Lady, the Witch, and the Ringmaster|Session 16]], the pa
 
 - [[Session 13 - The Lost and The Found|Session 13]] — Discussed her abduction with [[Luvash]] at the [[Vistani Camp]]; investigated the crime scene at [[Luna River]]
 
-- **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) — The party traveled to [[Lake Baratok]] and discovered crucial evidence: [[Rictavio]]'s wagon tracks at the lake proving his connection to [[Khazan]]'s tower, and a handkerchief with initials "R.V.R." at the crime scene. Arabelle's whereabouts remain unknown, but the party has identified key suspects.
+- [[Session 16 - The Lady, the Witch, and the Ringmaster|Session 16]] (Neyavr 6) — The party traveled to [[Lake Baratok]] and discovered crucial evidence: [[Rictavio]]'s wagon tracks at the lake proving his connection to [[Khazan]]'s tower, and a handkerchief with initials "R.V.R." at the crime scene.
+
+- **[[Session 17 - The Tower and The Truth]]** (Neyavr 6) — Found alive and safe! After investigating [[Van Richten's Tower]] and discovering overwhelming evidence, the party confronted [[Rictavio]] at the [[Arasek Stockyard]]. He revealed his true identity as **Dr. Rudolph van Richten** and opened his wagon to show Arabelle inside, safe and well. She had been under Van Richten's protection after he rescued her from [[Yan]] and [[Escher]], who were trying to bring her to [[Castle Ravenloft]] on [[Strahd von Zarovich|Strahd]]'s orders. Arabelle revealed she had deliberately left clues at the tower (her bracelet, the Tarokka card, etc.), trusting someone would follow the trail to find her.
 
 %%
 # Arabelle Profile

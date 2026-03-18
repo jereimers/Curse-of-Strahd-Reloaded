@@ -173,7 +173,7 @@ As dusk approaches, Ezmerelda can lead the players to a dark and quiet hollow in
 <p>The air is cool and damp here, carrying the earthy scent of wet soil and decaying leaves. The hollow itself is silent, save for the faint rustling of leaves and the distant lapping of water against the shore.</p>
 </div>
 
-Ezmerelda advises the players that they can stay hidden within the hollow while using it as a vantage point from which to watch the werewolves’ den. If asked, she points out the entrance to the den, which is located along the lake’s northwestern shore and as described in [[Approaching the Den]].
+Ezmerelda advises the players that they can stay hidden within the hollow while using it as a vantage point from which to watch the werewolves’ den. If asked, she points out the entrance to the den, which is located along the lake’s northwestern shore and as described in [[15_Chapter 15 - Werewolf Den#Approaching the Den|Approaching the Den]].
 
 Upon descending into the hollow, Ezmerelda asks the players to gather firewood and kindling. Once a small campfire has been created, she produces a small flint and steel from her satchel—a *furtive firestarter* (see below)—and uses it to light a small but cheery campfire beneath the cavern of roots. 
 
@@ -186,7 +186,7 @@ The campfire produces no smoke, and its light does not extend beyond the edges o
 
 Ezmerelda suggests that the party station one person on the edge of the hollow to watch for the pack’s departure. If the players don't suggest doing so, Ezmerelda suggests rotating shifts once per hour to avoid fatigue.
 ### L3a. Campfire Tales
-As night falls, Ezmerelda invites the players and [[Ireena]] to share stories about themselves, and offers to share her own history in turn. “After all," she says, “if we’re to work together, I’d like to know who I’m fighting beside."
+As night falls, Ezmerelda invites the players and [[Ireena Kolyana|Ireena]] to share stories about themselves, and offers to share her own history in turn. “After all," she says, “if we’re to work together, I’d like to know who I’m fighting beside."
 
 At the players’ choice, Ezmerelda can share one or both of the following stories when her turn arises: the tale of how she came to know Dr. Rudolph van Richten, or the tale of how she lost her leg.
 
@@ -232,7 +232,7 @@ One hour after nightfall, the majority of the werewolf pack departs the den. Rea
 > 
 > When leaving Barovia, Kiril takes only the long-time members of the pack with him to hunt, leaving his four bloodthirsty lackeys behind to supervise and protect the den. Kiril doesn't allow the long-time members of the pack to eat everything they hunt, and has threatened to dismember or kill them if they dare touch anything more than the scraps he leaves behind.
 
-As the players approach, the exterior of the den is largely as described in [[Approaching the Den]]. However, add the following text to the end of that description:
+As the players approach, the exterior of the den is largely as described in [[15_Chapter 15 - Werewolf Den#Approaching the Den|Approaching the Den]]. However, add the following text to the end of that description:
 
 <div class="description">
 <p>An enormous beast's carcass lies crookedly across the bottom of the cliff beside the cave's mouth—an enormous elk, easily as tall as two men standing atop each other's shoulders. Much of the flesh has been stripped from its bones, and its entire throat has been ripped away.</p>

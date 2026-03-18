@@ -1,5 +1,5 @@
 ---
-status: active
+status: complete
 tags:
   - cos
   - quest
@@ -79,7 +79,9 @@ The ring's presence at the abduction site suggests a connection between Arabelle
 
 - [[Session 13 - The Lost and The Found#Visiting the Vistani|Session 13]] — Received the quest from [[Luvash]] and [[Arrigal]] at the [[Vistani Camp]]; investigated the crime scene at the [[Luna River]]; discovered evidence pointing to [[Escher]] and [[Castle Ravenloft]]
 
-- **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) — The party traveled to [[Lake Baratok]] with [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] as guides. At the [[Luna River Crossroads]], they found a handkerchief bearing the initials "R.V.R." - matching the author "Rudolph Van Richten" of the werewolf manuscript they received from [[Arturi Radanavich]]. At the lake, they discovered Ezmerelda d'Avenir's wagon and spoke with her chicken companion, Eggsmerelda, learning that Ezmerelda is a monster hunter who has been missing for several days. Most significantly, the party found wagon tracks and yellow paint spatters proving that [[Rictavio]]'s carnival wagon was at Lake Baratok near [[Khazan]]'s tower - definitively connecting Rictavio to [[Arabelle]]'s abduction, though his exact role remains unclear. 
+- [[Session 16 - The Lady, the Witch, and the Ringmaster|Session 16]] (Neyavr 6) — The party traveled to [[Lake Baratok]] with [[Szoldar Szoldarovich]] and [[Yevgeni Krushkin]] as guides. At the [[Luna River Crossroads]], they found a handkerchief bearing the initials "R.V.R." - matching the author "Rudolph Van Richten" of the werewolf manuscript they received from [[Arturi Radanavich]]. At the lake, they discovered Ezmerelda d'Avenir's wagon and spoke with her chicken companion, Eggsmerelda, learning that Ezmerelda is a monster hunter who has been missing for several days. Most significantly, the party found wagon tracks and yellow paint spatters proving that [[Rictavio]]'s carnival wagon was at Lake Baratok near [[Khazan]]'s tower - definitively connecting Rictavio to [[Arabelle]]'s abduction, though his exact role remains unclear.
+
+- **[[Session 17 - The Tower and The Truth]]** (Neyavr 6) — **Quest Complete!** The party solved the arcane puzzle on the tower door using the [[DM Wiki/Entities/Items/Signet Ring|platinum signet ring]], fought and defeated four stone gargoyles, and explored [[Van Richten's Tower]]. Inside, they discovered overwhelming evidence: a [[Burned Journal Page]] in Van Richten's handwriting, a sketch of "Rictavio's Carnival of Wonders," [[Arabelle]]'s beaded bracelet wrapped around a silvered dagger and the [[21-022.hooded-one.png|Hooded One]] Tarokka card (which she had deliberately left as clues), a suit of plate armor, and paint pots in the lake matching Rictavio's wagon. The party confronted [[Rictavio]] at the [[Arasek Stockyard]], and after tense negotiations, he removed his *hat of disguise* to reveal his true identity: **Dr. Rudolph van Richten**, the legendary monster hunter. He opened his wagon to show [[Arabelle]] alive and safe inside, explaining he had rescued her from [[Yan]] and [[Escher]] at the [[Luna River]] when they attempted to bring her to [[Castle Ravenloft]] on [[Strahd von Zarovich|Strahd]]'s orders. The mystery of the missing Vistana was finally solved. 
 
 %%
 # Secrets

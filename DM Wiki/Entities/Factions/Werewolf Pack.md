@@ -42,3 +42,24 @@ But Emil was betrayed. Kiril, a young and haughty werewolf who felt his strength
 # Current State
 
 Now, as the pack's new alpha and Strahd's faithful servant, Kiril leads his werewolves on a savage and bloody crusade to dominate the wild places of Barovia, though he dreams of one day surmounting the settlements' walls and devouring their people like sheep. Meanwhile, Emil's mate Zuleika, the pack's holy woman and soothsayer, sits alone in Mother Night's shrine, silently praying for deliverance—or vengeance.
+
+# What the Party Knows
+
+From [[Session 17 - The Tower and The Truth|Session 17]], the party learned:
+
+## Encounter with Zsolt and Mathilda
+
+On the road back from [[Lake Baratok]], the party encountered two werewolves in human form: Zsolt (a large man with shaggy black hair and thick mutton chops) and Mathilda (a grim-faced woman with long braided hair). They claimed to be "trappers from Krezk," but [[Szoldar Szoldarovich]] didn't recognize either name.
+
+Zsolt told a tale about a wandering Vistana woman stalking the forest, then asked if the party carried silvered weapons. When [[Arden Nalero|Arden]] placed his silvered battleaxe to Zsolt's throat and demanded the truth, both werewolves transformed into hybrid forms and attacked.
+
+The battle was brief—Zsolt fell quickly to Arden's silvered axe, and Mathilda was brought down by silver arrows from [[Szoldar Szoldarovich|Szoldar]] and [[Yevgeni Krushkin|Yevgeni]] as she attempted to flee.
+
+## Intelligence Gained
+
+Before [[Varnish Gothorn|Varnish]] ended her life with *Mind Sliver*, Mathilda revealed under the influence of *Suggestion*:
+
+- The werewolf den is located on the **northwestern shore of Lake Baratok**
+- The pack is currently led by **Kiril Stoyanovich** (confirming rumors of new leadership)
+- The pack was **not involved** in [[Arabelle]]'s kidnapping, and she is not being held at their den
+- Increased werewolf activity in the area suggests the pack is becoming more aggressive under Kiril's leadership

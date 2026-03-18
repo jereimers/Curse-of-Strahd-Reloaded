@@ -1,72 +1,36 @@
 ---
 type: session
-session_number: "16"
+session_number: "17"
 status: played
-play_date: 3/4/26
-play_date_key: 2026-03-04
+play_date: 3/11/26
+play_date_key: 2026-03-11
 barovian_dates:
+  - "[[Neyavr 6]]"
 barovian_date_key: 0735-11-06
 locations:
+  - "[[Van Richten's Tower]]"
+  - "[[Arasek Stockyard]]"
 NPCs_met:
+  - "[[Dr. Rudolph van Richten]]"
 arcs:
+  - "[[Arc E - The Missing Vistana]]"
 plot_threads_introduced:
 plot_threads_advanced:
 combat: true
-has_recap: true
+has_recap: false
 tags:
   - cos
   - session
 publish:
 ---
 %% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. %%
-
-# Wrapping Neyavr 5: Delivering the goods & the Abdication
-
-## Aftermath of the Mission
-
->[!tldr]+ DM NOTE
-> The party will want to observe the encounter with Baron Vargas, which Lady Wachter will permit, provided they stay out of sight (the optics of outsiders directly facilitating the transfer of power would be problematic). 
-> .
-> - Lady Wachter can't deliver the silvered goods immediately, as they must be requisitioned from one of the city's armories.
-> - As a nod to the Tarokka reading, work in the phrase "ancient foe of a noble house" — perhaps "some will think me nothing more than the ancient foe of an old and noble house, but I assure you... whatever nobility once resided in House Vallakovich has long since been lost."
-> - She'll invite them to a public transition of power the following morning in the town square.
-> - Then she'll grab three of her cloaked associates (Boris, Andrej, Ruxandra) and head to the Baron's mansion. 
-> - Vargas can greet her haughtily, still in his armor, though he won't suspect anything's immediately amiss: "To what, pray tell, do I owe the unexpected pleasure of your company?" 
-> - Fiona: "Spare me the facade, Vargas. I'm here to facilitate your abdication."
-> - Vargas, face hardening: "Now what a preposterous and seditious notion... All has been well and, once I've re-educated you within the walls of this noble house, all will continue to be well! IZEK! Arrest this muckraking malcontent!"
-> - Fiona will toss the head at his feet, and he'll tuck tail and run almost immediately. Ruxandra's *command* spell stops him in his tracks. Fiona then explains coolly and calmly that the Baron will abdicate his office in a public ceremony tomorrow morning, after which he and his family would keep their title and estate but be under indefinite house arrest, not to participate at all in administering the duties of Burgomaster. "Blink twice if you agree," Fiona will say.
-
-
-![[Arc F - Lady Wachter's Wish#F5. Aftermath of the Mission]]
-
-
 # Neyavr 6, Option 1: Seek out [[Van Richten's Tower|Khazan's Tower]] (Arc E)
-
-## Lake Zarovich (Szoldar & Yevgeni's Hunting Shack)
-
-![[Arc E - The Missing Vistana#E4. Lake Zarovich]]
-
-## The Svalich Road, Luna River Bridge, & Crossroads
-
->[!note]+ DM NOTE
->Since none of my players have a passive perception this high, ask for a perception check when they leave Szoldar's hunting shack. Keep the DC at 19.
->
->Also, skip the encounter with the Scarecrows and Twig Blights, since we already did that. But do the scrap of material at the bridge.
-
-
-![[Arc E - The Missing Vistana#E5. The Svalich Road]]
 
 
 ## Lake Baratok, Ezmerelda's Wagon, The Tower
 
 >[!tip]+ DESCRIPTION OF THE LAKE & TOWER
 >You come to a cold mountain lake enclosed by misty woods and rocky bluffs. Thick fog creeps across the dark, still waters. The trail ends at a grass-covered causeway that stretches a hundred yards across the lake to a flat, marshy island with a stone tower on it. The tower is old and decrepit, with collapsing scaffolds clinging to one side where a large gash has split the wall. Timeworn griffon statues, their wings and flanks covered with moss, perch atop buttresses that support the walls. Parked near the base of the tower, within sight of the entrance, is a barrel-topped wagon spattered with mud.
-### Ezmerelda's Wagon
-
->[!tldr]+ DESCRIPTION OF EZMERELDA'S WAGON
-> Under layers of mud, this wagon sports a fresh coat of purple paint, and its wheels have fancy gold trim. A brass lantern hangs from each corner, and red drapes cover a tombstone-shaped window on each side. A steel padlock secures the back door, hanging from which are three cheap wooden signs arranged in a haphazard diagonal that read, in order, "Keep out!" "Home & Property of Ezmerelda D'Avenir," and "Trespassers will be immediately incinerated." Beneath the warning on the third sign, someone has drawn a small frowning face with crossed-out eyes, surrounded by a stylized flame.
-
-![[Arc E - The Missing Vistana#E6a. Ezmerelda’s Wagon]]
 
 ### The Tower
 

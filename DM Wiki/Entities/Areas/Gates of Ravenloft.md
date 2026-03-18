@@ -1,31 +1,32 @@
 ---
 type: Area
 name: Gates of Ravenloft
-aliases: null
+aliases:
 area_code: J
-WotC_ref: null
-CoS-R_ref: null
-parent_region: '[[Barovia]]'
+WotC_ref:
+  - "[[02_Chapter 2 - The Lands of Barovia#J. Gates of Ravenloft]]"
+CoS-R_ref: "[[Arc C - Into the Valley#C9. Old Bonegrinder]]"
+parent_region: "[[Barovia]]"
 arcs:
-- '[[Arc U - Dreams of Dawn]]'
-- '[[Arc O - Dinner with the Devil]]'
-- '[[Arc P - Ravenloft Heist]]'
-connected_locations: null
-notable_npcs: null
-threat_level: null
-first_appearance_date: null
+  - "[[Arc U - Dreams of Dawn]]"
+  - "[[Arc O - Dinner with the Devil]]"
+  - "[[Arc P - Ravenloft Heist]]"
+connected_locations:
+notable_npcs:
+threat_level:
+first_appearance_date:
 tags:
-- area
-- cos
-key_factions: null
-area_type: null
-first_appearance_session: null
-scenes: null
-encounters: null
-items: null
-handouts: null
-loot: null
-publish: false
+  - area
+  - cos
+key_factions:
+area_type:
+first_appearance_session:
+scenes:
+encounters:
+items:
+handouts:
+loot:
+publish: true
 ---
 # Overview
 

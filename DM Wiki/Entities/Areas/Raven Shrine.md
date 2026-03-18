@@ -18,7 +18,6 @@ arcs:
   - "[[Arc J - The Stolen Gem]]"
 aliases:
 ---
-
 # What It Is
 
 An ancient shrine consisting of standing stones arranged in a circle, located near the [[Gates of Ravenloft]]. One of the stones bears a carved raven symbol, below which is a three-pointed star. The origin and purpose of the shrine remain unknown.
