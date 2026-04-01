@@ -8,7 +8,6 @@ publish: true
 
 - [[The Lost Soul]] — before dawn on Neyavr 9
 	- Next steps: EITHER determine the night hags' true names OR bargain with them to obtain use of a heartstone
-- [[The Missing Vistana]] — ASAP
 
 ## Village of Barovia
 
@@ -28,6 +27,7 @@ publish: true
 - [[Arabelle's Gift]] 
 - [[The Haunting at Vallakovich Manor]]
 - [[Lady Wachter's Wish]] 
+- [[The Missing Vistana]] 
 
 # Rumored/Unconfirmed
 

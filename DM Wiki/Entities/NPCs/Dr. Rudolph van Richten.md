@@ -59,7 +59,9 @@ region: Wilderness
 
 # Where we've seen them
 
-*To be updated during play.*
+**[[Session 17 - The Tower and The Truth]]** (Neyavr 6) — After the party discovered overwhelming evidence connecting [[Rictavio]] to [[Arabelle]]'s disappearance at [[Van Richten's Tower|Khazan's Tower]], they confronted him at the [[Arasek Stockyard]]. When pressed with evidence—the burned journal page, the bracelet, the yellow paint—Rictavio removed his *hat of disguise* to reveal his true identity: Dr. Rudolph van Richten, the legendary monster hunter. He opened his wagon to show [[Arabelle]] alive and safe inside, explaining that he had rescued her from a kidnapping plot orchestrated by [[Yan]] and [[Escher]] on [[Strahd von Zarovich|Strahd]]'s orders.
+
+**[[Session 18 - Brokering Peace]]** (Neyavr 6) — Van Richten recounted the full story of [[Arabelle]]'s rescue: how he witnessed [[Yan]] delivering her to the vampire spawn [[Escher]] at the [[Luna River]], how he killed Yan in a moment triggered by memories of his own son's kidnapping, and how he used his *talisman of echoes* to interrogate the dead Vistana's severed head to learn of [[Strahd von Zarovich|Strahd]]'s bounty on children matching [[Arabelle]]'s description. When [[Arrigal]] emerged from the shadows demanding [[Arabelle]]'s return, the party brokered a peace agreement: Van Richten would move his wagon to the woods near the [[Vistani Camp]] where [[Luvash]] could visit his daughter daily, while [[Arrigal]] would feed Strahd false information about her whereabouts. During this encounter, [[Arabelle]] revealed that Van Richten's son [[Erasmus]] had been keeping her safe in the wagon as a ghost—a revelation that brought the veteran monster hunter to tears. [[Arabelle]] then delivered a dark prophecy of eternal night and rising dead before collapsing unconscious. The party accompanied Van Richten, [[Arrigal]], and [[Arabelle]] to the Vistani camp, where [[Luvash]] tearfully reunited with his daughter. As a reward for their aid, Van Richten gave the party his *talisman of echoes*, a rare magical item capable of casting *gentle repose* and *speak with dead*.
 
 %%
 # Dr. Rudolph van Richten Profile

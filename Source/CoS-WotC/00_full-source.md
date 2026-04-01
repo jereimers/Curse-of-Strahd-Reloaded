@@ -2445,7 +2445,7 @@ If your card reading indicates an encounter with Strahd in this area, he is look
 ## Main Floor
 
 Refer to map 3 of the castle for areas K7 through K24.
-![img-21.jpeg](img-21.jpeg)
+![[map-04.03-main-floor.jpg]]
 
 MAP 3: MAIN FLOOR
 
@@ -2521,7 +2521,7 @@ The organ appears locked in place and immovable, but a character who makes a suc
 The food on the table is tasty, the wine delicious.
 
 %% --- Page 76 --- %%
-![img-22.jpeg](img-22.jpeg)
+![[04-002.strahd-organ.png]]
 
 ### K11. South Archers' Post 
 
@@ -2633,7 +2633,7 @@ The stairs ascend another 40 feet to another landing (shown on map 5), with arch
 The tower, including the spiral staircase, is alive. When the characters set foot on the staircase for the first time, read:
 
 <div class="description"><p>As you step onto the spiral staircase, a reddish light flares high overhead, then settles into a dull, pulsing red glow. You now see the full immensity of this tower. The spiral staircase circles up the tower's full height. The tower, sixty feet wide at its base, becomes narrower as it climbs. At the pinnacle of the hollow tower, a large crystal heart pulsates with red light. Above the heart, the stairs continue upward.</p></div>
-![img-23.jpeg](img-23.jpeg)
+![[04-003.heart-of-sorrow.jpg]]
 
 Have the characters and the Heart of Sorrow roll initiative. If the characters leave the tower and later return, they can reroll initiative, but the heart's initiative count doesn't change.
 
@@ -2689,7 +2689,7 @@ The stairs lead to area K34.
 ## Court of the Count 
 
 Refer to map 4 of the castle for areas K25 through K34.
-![img-24.jpeg](img-24.jpeg)
+![[map-04.04-court-of-the-count.jpg]]
 
 MAP 4: COURT OF THE COUNT
 
@@ -2761,7 +2761,7 @@ The staircase climbs from area K16 to area K28. It seems unstable but is sturdy.
 In the center of this clutter stands a great black desk. A figure crouches atop a tall stool, scratching on a seemingly endless scroll of paper with a dry quill pen. Nearby a tasseled rope hangs from a hole in the ceiling.</p></div>
 
 The figure is Lief Lipsiege (CE male human commoner), an accountant. He is chained to the heavy wooden desk and has no interest in the characters or their concerns. Under no circumstances does he voluntarily leave the room. Lief pulls the rope the instant he feels threatened.
-![img-25.jpeg](img-25.jpeg)
+![[04-004.lief-lipsiege.png]]
 
 LIEF LIPSIEGE
 Pulling the rope requires an action. When the rope is pulled, a tremendously loud gong sounds. One or more creatures arrive 1d6 rounds later, attacking any characters still in the room. Determine the creatures randomly by rolling a d4:
@@ -2859,7 +2859,7 @@ The staircase leads down to area K24.
 ## Rooms of Weeping 
 
 Refer to map 5 of the castle for areas K35 through K46.
-![img-26.jpeg](img-26.jpeg)
+![[map-04.05-rooms-of-weeping.jpg]]
 
 MAP 5: ROOMS OF WEEPING
 
@@ -2916,7 +2916,7 @@ The secret door provides access to area K38.
 The real treasure here is Strahd's collection of books-over one thousand unique tomes in all. The collection is worth 80,000 gp. Transporting it would be a challenge.
 
 Roll a d12 and consult the following table to determine the subject matter of a randomly chosen book.
-![img-27.jpeg](img-27.jpeg)
+![[04-005.tatyana.png]]
 
 TATYANA
 
@@ -3017,7 +3017,7 @@ Sweet smells waft from this delicately lit room. A great arched window along the
 A large bed, canopied by silk curtains, sits with its headboard against the north wall. Carved into the headboard with great skill is a large "Z." Lying amid the velvet and satin sheets and bedclothes is a young woman in a nightgown. One of her dainty slippers has fallen to the floor at the bed's foot.
 
 %% --- Page 91 --- %%
-![img-28.jpeg](img-28.jpeg)
+![[04-006.gertruda.png]]
 
 GERTRUDA
 
@@ -3078,7 +3078,7 @@ The armor can't be salvaged if it is reduced to 0 hit points.
 Refer to maps 6 through 10 of Castle Ravenloft for areas K47 through K60.
 
 %% --- Page 93 --- %%
-![img-29.jpeg](img-29.jpeg)
+![[map-04.06-spires-of-ravenloft.jpg]]
 
 MAP 6: SPIRES OF RAVENLOFT
 
@@ -3087,7 +3087,7 @@ MAP 6: SPIRES OF RAVENLOFT
 You come to a dark landing ten feet wide and twenty feet long. A cold draft of wind rushes down the spiral staircase at the north end of the east wall and whistles mournfully through the room before streaming down the stairs to the south.
 
 An ornate, square rug covers the floor to the south. Set into the west wall is an ironbound wooden door with a wooden trapdoor set into the floor in front of it. Hanging on the north wall above the trapdoor is a framed portrait of a handsome, well-dressed man with a serene yet penetrating gaze.
-![img-30.jpeg](img-30.jpeg)
+![[04-007.strahd-portrait.png]]
 
 %% --- Page 94 --- %%
 The ornate rug is actually a rug of smothering. It attacks creatures, other than undead, that move across it or anyone who tries to move it or otherwise disturb it. Underneath the rug is a bare stone floor.
@@ -3109,7 +3109,7 @@ This stairway rises from area K47, past area K54, to area K57.
 As thunder shakes the tower, heavy beams groan under the weight of the ceiling. Three ornate lanterns hang by chains from these beams, each casting a dim glow. The curved west wall is fitted with three windows of leaded glass in steel latticework. A bookcase sits on the east wall between two doors. Plush, overstuffed chairs and couches are placed about the room. The fabric has faded with age, and the patterns it depicts are nearly gone. Lounging on one couch is a handsome young man whose attire, while elegant, is worn and faded.
 
 The youthful man on the couch is Escher, a dashing vampire spawn to whom Strahd has shown favor in the past. Escher is feeling somewhat neglected of late and has retreated here until Strahd's mood improves. If attacked, he hurls himself out the window and lands like a cat on the roof of the keep (area K53). He leads pursuers right to Strahd, wherever the lord of the castle happens to be (and regardless of whether the characters are ready to face Strahd).
-![img-31.jpeg](img-31.jpeg)
+![[04-008.brides.png]]
 
 In conversation, Escher displays wit with a hint of melancholy. Beneath his arch mood is a dread that Strahd is growing bored of him and will lock him in the catacombs (area K84) with Strahd's other castoff consorts.
 
@@ -3173,7 +3173,7 @@ There is a secret trapdoor in the northeast corner of the floor. Because of the 
 ### K56. Cauldron
 
 %% --- Page 97 --- %%
-![img-32.jpeg](img-32.jpeg)
+![[map-04.07-spires-and-towers.jpg]]
 
 MAPS 7-10: SPIRES AND TOWER OF RAVENLOFT
 Characters who stand outside the door to this room can smell a pungent odor coming from within.
@@ -3254,7 +3254,7 @@ The ceiling here is 9 feet high. The manacles are rusted and can be easily torn 
 The emblem worked into the lid of the iron chest is Strahd's family crest. (Show the players Strahd's crest.) Cyrus Belview (see area K62) stashed the chest here for safekeeping.
 
 %% --- Page 100 --- %%
-![img-33.jpeg](img-33.jpeg)
+![[04-009.crest.png]]
 
 #### Treasure 
 
@@ -3283,7 +3283,7 @@ The courtyard lies 260 feet below, and the roof of the keep is 130 feet below.
 Refer to map 11 of the castle for areas K61 through K72.
 
 %% --- Page 101 --- %%
-![img-34.jpeg](img-34.jpeg)
+![[map-04.08-larders-of-ill-omen.jpg]]
 
 MAP 11: LARDERS OF ILL OMEN \& MAP 12: DUNGEON AND CATACOMBS
 
@@ -3294,7 +3294,7 @@ See area K31 and the accompanying Elevator Trap diagram before running this enco
 This dusty, ten-foot-wide, thirty-foot-long corridor has a flat ceiling ten feet overhead. To the south, a web-filled stairway spirals down into darkness. The north end of the hall ends at a wooden door.
 
 %% --- Page 102 --- %%
-![img-35.jpeg](img-35.jpeg)
+![[map-04.09-elevator-trap.jpg]]
 
 MAP: ELEVATOR TRAP
 VIEW PLAYER VERSION
@@ -3333,7 +3333,7 @@ The figure approaching is Cyrus Belview, a mongrelfolk (see appendix D) and Stra
 The light in the hall comes from a lantern on the floor behind Cyrus. If the characters have their own light sources, Cyrus sees them, but he will not attack first. He wears a loop of twine around his neck, hanging from which is an iron key and a decorative wooden pendant fitted with a varnished human eyeball. The key unlocks the iron chest in area K60. The wooden pendant is a hag eye given to Cyrus by the night hag Morgantha (see chapter 6), so that she could spy on Strahd. Cyrus doesn't know that the necklace is magical. See the "Hag Covens" sidebar in the hags entry in the Monster Manual for information about the hag eye.
 
 %% --- Page 104 --- %%
-![img-36.jpeg](img-36.jpeg)
+![[04-010.cyrus-belview.png]]
 
 CYRUS BELVIEW
 Poor old Cyrus is obviously crazy. He has served the master for uncounted years and is devoted to him. Cyrus tries to get the characters to retire to their "room in the tower" (area K49). If the characters aren't sure what room he is talking about, he offers to lead them there.
@@ -3460,7 +3460,7 @@ The following boxed text assumes that the characters arrive by way of the stairc
 The stairs descend into black, still water that fills an arched hallway before you. The water's surface is like dark, mirrored glass, disturbed only occasionally by the "thwick" of a drop falling from the ceiling. Twenty feet ahead, arched doorways lead downward from each side of the hallway. In each arched doorway, an iron door stands closed and partially submerged. You hear a weak cry for help from beyond the south door.
 
 %% --- Page 108 --- %%
-![img-37.jpeg](img-37.jpeg)
+![[map-04.10-traps.png]]
 
 MAP: TRAPS IN AREA K73
 The water is 3 feet deep in the hallway and opaque. The steps on both sides of the hallway descend another 2 feet before ending at the iron doors to the north and south.
@@ -3555,7 +3555,7 @@ The corridor is 40 feet long. Branching off it are eight cells, four along each 
 A strong young man clutches the bars of his cell while struggling to keep his teeth from chattering. His clothes are shredded, and he is soaked from head to toe.
 
 The man is Emil Toranescu, a werewolf with 72 hit points. He claims to be a resident of Vallaki who was chased by dire wolves to the castle. He begs the characters to rescue him, offering to help them in exchange.
-![img-38.jpeg](img-38.jpeg)
+![[04-011.emil-toranescu.png]]
 
 EMIL TORANESCU
 In truth, Strahd locked Emil here as punishment for causing a schism in his werewolf pack (see chapter 15). Anxious to prove his worth to Strahd, Emil rewards the characters for freeing him by attacking them when a good opportunity arises. Emil doesn't turn against the characters if they claim to be allies of his wife, Zuleika (see chapter 15, area Z7). In that case, he tries to leave the castle and reunite with her, staying with the characters only until an opportunity to leave presents itself.
@@ -3618,7 +3618,7 @@ upward through the water as they attack.
 
 
 %% --- Page 112 --- %%
-![img-39.jpeg](img-39.jpeg)
+![[04-012.torture-chamber.jpg]]
 
 ### K77. Observation Balcony 
 
@@ -4292,7 +4292,7 @@ A creature of lawful good alignment that moves west to east through the curtain 
 ### K88. Tomb of King Barov and Queen Ravenovia
 
 This tomb rests in hushed silence. Tall, stained glass windows dominate the eastern walls, allowing dim light to fall on two coffins resting atop white marble slabs. The one against the north wall is marked King Barov von Zarovich, and the one against the south wall is marked Queen Ravenovia van Roeyen. The vaulted ceiling thirty feet overhead is inlaid with a beautiful gold mosaic.
-![img-40.jpeg](img-40.jpeg)
+![[04-013.queen-king.png]]
 
 KING BAROV AND QUEEN RAVENOVIA
 The stained glass windows are so dirty on the outside as to be nearly opaque. The windows don't open, but they can be smashed easily. Anyone who looks upward through a window can see, 110 feet above, the castle's stone overlook (area K6). Anyone who falls out a window here plummets almost 900 feet to the base of the Pillarstone of Ravenloft.
@@ -4404,7 +4404,7 @@ This slouching, centuries-old stone church has a bulging steeple in the back and
 This church is dedicated to the Morninglord and named after St. Andral, whose bones once rested under the altar (see the "Bones of St. Andral" section). Father Lucian Petrovich (LG male human priest) oversees the church and does his best to raise spirits. Assisting him is an orphan and altar boy named Yeska (LG male human noncombatant). A brawny lad with a perpetually furrowed brow named [[Milivoj]] (see below) tends the grounds and digs graves.
 
 At night, the church is packed with $2 d 6+6$ frightened Vallakian adults (male and female human commoners) and 2d6 equally terrified Vallakian children (male and female human noncombatants). Father Lucian offers his nightly congregation his prayers and the promise of St. Andral's protection. Among Father Lucian's nightly flock is a sad old woman named [[Willemina Rikalova]]. Her son, the shoemaker Udo Lukovich, has been imprisoned for speaking out against the burgomaster (see area N3m). She prays that her son will be set free.
-![img-43.jpeg](img-43.jpeg)
+![[05-002.milivoj.png]]
 
 [[Milivoj]] ( N male human commoner) is rarely seen without a shovel, which he wields like a club. Modify his statistics as follows:
 
@@ -4437,7 +4437,7 @@ The inn offers a pint of Purple Grapemash No. 3 wine for 3 cp , or a pint of the
 The inn's wine supply is almost depleted, and the latest delivery from the Wizard of Wines winery is overdue. If the characters claim to be adventurers, Urwin asks them if they would be so kind as to find out what's holding up the latest shipment, promising them free room and board if they return with the wine.
 
 %% --- Page 135 --- %%
-![img-44.jpeg](img-44.jpeg)
+![[map-05.02-blue-water-inn.jpg]]
 
 MAP 5.2: BLUE WATER INN (AREA N2)
 
@@ -4487,7 +4487,8 @@ These two are dour fellows, but they seldom pass up an opportunity to earn coin.
 On rare occasions when he has something to say, Szoldar speaks brusquely, while Yevgeni usually parrots his friend in not so many words. Szoldar has a notch in his bow for every wolf he's killed, while Yevgeni adds a new swatch to his wolfskin cloak every time he makes a kill. Both men have families but spend most of their time together, either drowning their sorrows or hunting in the woods. Most of the wolf heads that adorn the tavern walls are the result of their handiwork.
 
 %% --- Page 137 --- %%
-![img-45.jpeg](img-45.jpeg)
+![[05-003.szoldar-szoldarovich.png]]
+![[05-004.yevgeni-krushkin.png]]
 
 ##### Wachter Brothers. 
 Nikolai and Karl Wachter ( N male human nobles) are brothers of noble birth. They are brash drunkards always looking for trouble, though they are smart enough not to pick fights with well-armed strangers. Their mother, Fiona Wachter (see area N4), is an influential figure in town, but her sons never talk about her. They'd rather listen to tales of the characters' harrowing adventures or hear about how the characters plan to free Vallaki from the burgomaster's madness.
@@ -8702,7 +8703,7 @@ One hundred feet above the cave mouth (area Z1), farther up the sloping mountain
 ## Areas of the Den
 
 The following areas correspond to labels on the map of the werewolf den below.
-![img-102.jpeg](img-102.jpeg)
+![[map-15.01-werewolf-den.jpg]]
 
 %% --- Page 281 --- %%
 Mounted to the walls throughout the den are iron brackets containing lit torches. All areas are brightly lit, though shadows abound.

@@ -61,6 +61,9 @@ WotC_ref: null
 publish: true
 region: Wilderness
 ---
+# Portrait
+![[05-012.arrigal.png]]
+
 # Who They Are
 
 [[Luvash]]'s younger brother and co-leader of the [[Vistani Camp]] outside [[Town of Vallaki|Vallaki]]. He is also [[Arabelle]]'s uncle.

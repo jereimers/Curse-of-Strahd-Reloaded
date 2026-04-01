@@ -18,5 +18,6 @@ publish: true
 15. 2/19/26 - [[Player Wiki/Session Recaps/Session 15 - Killing Izek|Session 15 - Killing Izek]]
 16. 3/4/26 - [[Session 16 - The Lady, the Witch, and the Ringmaster]]
 17. 3/11/26 - [[Session 17 - The Tower and The Truth]]
+18. 3/18/26 - [[Session 18 - Brokering Peace]]
 
 *indicates session played but recap not yet written.

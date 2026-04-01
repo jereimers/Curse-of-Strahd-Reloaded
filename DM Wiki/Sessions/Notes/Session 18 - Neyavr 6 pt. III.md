@@ -1,6 +1,6 @@
 ---
 type: session
-session_number: "17"
+session_number: "18"
 status: played
 play_date: 3/18/26
 play_date_key: 2026-03-18
@@ -44,3 +44,10 @@ publish:
 
 ![[Arc D - St. Andral's Feast#D6. Rahadin 's Visit]]
 
+# Neyavr 7
+
+## Option 1: Old Bonegrinder
+![[Arc H - The Lost Soul#H6. The Old Svalich Road]]
+
+![[Arc H - The Lost Soul#H7. Old Bonegrinder]]
+## Option 2: Krezk

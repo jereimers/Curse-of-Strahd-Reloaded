@@ -24,7 +24,7 @@ publish: true
 
 # What Happened Last Session
 
-![[Session 17 - The Tower and The Truth#Session Summary]]
+![[Session 18 - Brokering Peace#Session Summary]]
 
 ---
 # Currency Exchange Table
