@@ -22,7 +22,7 @@ jobs:
           fetch-depth: 0        # Fetch full history for merges
 
       - name: Sync Upstream
-        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4
+        uses: aormsby/Fork-Sync-With-Upstream-action@v3.4.1
         with:
           target_sync_branch: main
           # REQUIRED: The upstream repo you want to sync from
