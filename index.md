@@ -24,7 +24,7 @@ publish: true
 
 # What Happened Last Session
 
-![[Session 18 - Brokering Peace#Session Summary]]
+![[Session 19 - The Con at Old Bonegrinder#Session Summary]]
 
 ---
 # Currency Exchange Table

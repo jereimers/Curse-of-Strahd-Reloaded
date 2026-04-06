@@ -104,6 +104,15 @@ A pragmatic survivor who bends like the willow rather than breaking like the oak
 - **[[Session 15 - Killing Izek]]** (Neyavr 5) - [[Ernst Larnak]] delivered the poisoned wine and Izek's schedule to the party on her behalf, enabling the successful assassination of [[Izek Strazni]].
 
 - **[[Session 16 - The Lady, the Witch, and the Ringmaster]]** (Neyavr 6) - The party returned from [[Lake Zarovich]] and delivered [[Izek Strazni]]'s frozen head to Lady Wachter at [[Wachterhaus]]. She immediately gathered three of her cloaked cultists (Boris, Andrej, and Ruxandra) and departed for the [[DM Wiki/Entities/Areas/Town of Vallaki/Burgomaster's Mansion|Burgomaster's Mansion]] to confront [[Baron Vargas Vallakovich|Baron Vallakovich]]. Presenting Izek's severed head as proof of his death, she forced the Baron to agree to abdicate. When he attempted to flee, Ruxandra used a *command* spell to freeze him in place. The following morning, Lady Wachter publicly assumed leadership of [[Town of Vallaki|Vallaki]] at an abdication ceremony in the [[Town Square]], peacefully ending nearly 500 years of Vallakovich rule.
+- **[[Session 19 - The Con at Old Bonegrinder]]** (Neyavr 7) - Foresaw the party's mission to [[Old Bonegrinder]] in her morning Tarokka reading and awaited them at the Morning Gate with her four most trusted cultists (Boris, Andrej, Miruna, and Ruxandra). On the road, encountered one of the [[Forest Folk]]'s druids—a gaunt, eccentric figure standing on their hands in a tree. Exchanged tense words with the druid, invoking her connection to Mother Night and reminding them that House Wachter remembers its debts to [[Strahd von Zarovich|Strahd]]. After the druid departed, explained to the party that the Forest Folk worship Strahd and serve as his spies in the wilderness. Shared her history with her former mentor Lysa, a woodswitch of [[Ruins of Berez|Berez]] who worshipped Mother Night, and revealed she'd been banished from Berez after returning to Vallaki and adopting the faith of [[Ezra, God of the Mists|Ezra]]. At the windmill, orchestrated the rescue plan, sending her imp familiar Majesto (in crow form) to scout the interior via psychic link. After the successful mission, examined the stolen coven contract with grim satisfaction, obtaining the true names needed to bind the hags: Morgantha Stormreaver, Belladonna Sunbane, and Offalia Wormwiggle.
+
+# Statblock
+Lady Wachter still has the statistics of a [[Priest]]. However, she has a different list of prepared spells:
+
+* Cantrips (at will): [[Source/5e-database/Spells/Cantrips/Light|light]], [[Toll the Dead (XGE)|toll the dead]], [[Thaumaturgy|thaumaturgy]] 
+* 1st level (4 slots): [[Command|command]], [[Sanctuary|sanctuary]], [[Bane|bane]]
+* 2nd level (3 slots): [[BlindnessDeafness (PHB)|blindness/deafness]], [[Zone of Truth|zone of truth]], [[Hold Person|hold person]]
+* 3rd level (2 slots): [[animate dead]], [[Spirit Guardians|spirit guardians]]
 
 %%
 # Lady Fiona Wachter Profile
@@ -148,10 +157,10 @@ Lady Wachter is the widow of the deceased Nikolai Wachter I, and the mother of N
 # Statblock
 Lady Wachter still has the statistics of a [[Priest]]. However, she has a different list of prepared spells:
 
-* Cantrips (at will): _light, toll the dead, thaumaturgy_ 
-* 1st level (4 slots): _command, sanctuary, bane_ 
-* 2nd level (3 slots): _blindness/deafness, zone of truth, hold person_ 
-* 3rd level (2 slots): _animate dead, spirit guardians_
+* Cantrips (at will): [[Source/5e-database/Spells/Cantrips/Light|light]], [[Toll the Dead (XGE)|toll the dead]], [[Thaumaturgy|thaumaturgy]] 
+* 1st level (4 slots): [[Command|command]], [[Sanctuary|sanctuary]], [[Bane|bane]]
+* 2nd level (3 slots): [[BlindnessDeafness (PHB)|blindness/deafness]], [[Zone of Truth|zone of truth]], [[Hold Person|hold person]]
+* 3rd level (2 slots): [[animate dead]], [[Spirit Guardians|spirit guardians]]
 
 # Notes
 

@@ -315,9 +315,12 @@ If Lady Wachter is informed of the possible presence of children within the wind
 If the players and Lady Wachter come to an agreement, she promises to meet them—along with her associates—at Vallaki’s eastern Morning Gate at the allotted time, once she’s prepared herself for the journey.
 # H6. The Old Svalich Road
 ## H6a. The Morning Gate
-If the players recruit [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] to their cause, she and her four **cult fanatic** associates meet them promptly at the Morning Gate at the chosen time. Lady Wachter has exchanged her dress for a practical pair of pants, flat-soled leather boots, and a chain shirt tucked under a forest-green tunic, with a round-headed mace hanging from her belt and a black hooded riding cloak covering the ensemble. Majesto, her **imp** familiar, accompanies her in **crow** form.
+If the players recruit [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] to their cause, she and her four **cult fanatic** associates meet them promptly at the Morning Gate at the chosen time. Lady Wachter has exchanged her dress for a practical pair of pants, flat-soled leather boots, and a chain shirt tucked under a forest-green tunic, with a round-headed mace hanging from her belt and a black hooded riding cloak covering the ensemble. Majesto, her [[Imp]] familiar, accompanies her in **crow** form.
 
 The fanatics are as described in [[05_Chapter 5 - The Town of Vallaki#N4t. Cult Headquarters]] and are named Andrej, Boris, Miruna, and Ruxandra, respectively. None of the fanatics are particularly talkative.
+
+> [!tldr]+ Cult Fanatics Description
+> A young man who has the face of an angel *(Andrej)*; a balding hulk of a man *(Boris)*; a squat, middle-aged woman *(Miruna)*; and a taller, younger woman with an unsettling glare *(Ruxandra)*.
 ## H6b. The Druid
 The journey from the Town of Vallaki to Old Bonegrinder is five-and-three-quarter miles long and takes two hours.
 
@@ -327,7 +330,7 @@ Midway through the trip, the players are disturbed by a rustling in the trees ab
 <p>A gaunt figure with wild hair and bare feet crouches on a thick, gnarled branch above your heads, wearing a tattered gown of stitched animal skins. Red streaks run across its cheeks, with two more fang-shaped streaks staining the skin beneath its lips.  It stops, sniffs the air, and laughs like a lunatic. “Little songbirds wandering the dark woods?” it asks, leering down at you.</p>
 </div>
 
-The figure is a **druid** of Yester Hill, and a spy for Strahd. They intend no harm toward the players, but are eager to provoke them in interesting ways.
+The figure is a [[Source/5e-database/Monsters/Druid|druid]] of Yester Hill, and a spy for Strahd. They intend no harm toward the players, but are eager to provoke them in interesting ways.
 
 If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is with the players, the conversation proceeds as follows unless the players intervene:
 
@@ -338,7 +341,7 @@ If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is with the players
 
 If the players ask about her conversation with the druid, Lady Wachter is willing to provide the following information:
 
-* The individual was a druid of the Forest Folk, a loose society of hermits that dwell amidst the Svalich Woods and generally shun the civilized settlements. The druids treat Yester Hill, a hill at the southwest edge of the Barovian valley, as a sacred place, and worship Strahd as a deity for his control over the land and weather.
+* The individual was a druid of the [[Forest Folk]], a loose society of hermits that dwell amidst the Svalich Woods and generally shun the civilized settlements. The druids treat [[Yester Hill]], a hill at the southwest edge of the Barovian valley, as a sacred place, and worship [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Strahd]] as a deity for his control over the land and weather.
 * Lady Wachter first encountered and learned of the druids while a student of her mentor, Lysa. Lysa, a woodswitch who dwelled in the swamps of Berez, was a worshipper of Mother Night, a deity of darkness, trickery, and the occult. Lady Wachter was never able to hear the “voice” of Mother Night (as Lysa called it), however, and adopted the faith of Ezra soon after returning to Vallaki.
 * Lysa did not take Lady Wachter’s departure lightly. A prideful woman, she considered her students her children, and took Lady Wachter’s decision to return to Vallaki as a personal betrayal. Lady Wachter has been banished from Berez ever since.
 * Lady Wachter’s “debt” to Strahd arises from his effort to save Lady Wachter’s ancestor, Lady Lovina Wachter, from death at the hands of the traitor Leo Dilisnya centuries ago. When a traitor and assassin named Leo Dilisnya murdered Lovina’s husband and attempted to kill Lovina as well, Strahd defended her, then hunted Dilisnya down to punish him for his treachery. House Wachter has remained loyal to Strahd ever since.
@@ -347,7 +350,7 @@ If the players ask about her conversation with the druid, Lady Wachter is willin
 
 Old Bonegrinder is largely as described in [[06_Chapter 6 - Old Bonegrinder|Chapter 6: Old Bonegrinder]] (p. 125). However, there are no ravens at or near the windmill. Additionally, Freek is named Fyodor instead, and both he and Myrtle are the children of the Barovian refugee Franz. Finally, the millstone in [[06_Chapter 6 - Old Bonegrinder#O2. Bone Mill|O2. Bone Mill]] (p. 127) bears a stone keyhole on one side, and contains a compartment that holds the hags' contract. 
 
-If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is present as the players approach the windmill, she first gathers the players, [[Non-Player Characters#Victor Vallakovich|Victor]], and the four **cult fanatics** in a darkened copse of trees beside the Old Svalich Road to assemble a plan of attack.
+If [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] is present as the players approach the windmill, she first gathers the players, [[Non-Player Characters#Victor Vallakovich|Victor]], and the four [[Cult Fanatic|cult fanatics]] in a darkened copse of trees beside the Old Svalich Road to assemble a plan of attack.
 
 Lady Wachter then attempts to confirm the following details:
 
@@ -355,7 +358,7 @@ Lady Wachter then attempts to confirm the following details:
 * whether there are children within the windmill, and how the players intend to rescue them
 * how the players intend to combat the hags once the binding circle is raised
 
-Lady Wachter is glad to offer the players the service of her **imp** familiar Majesto as a scout. (Majesto can use his **crow**, **spider**, and **rat** forms to surveil the exterior and interior of the windmill while remaining invisible using his ***invisibility*** ability.) Meanwhile, Victor offers to aid the players in retrieving Franz’s children from the windmill, using his *misty step*, *fly*, and *greater invisibility* spells as-needed to assist with the rescue mission.
+Lady Wachter is glad to offer the players the service of her [[Imp]] familiar Majesto as a scout. (Majesto can use his **crow**, **spider**, and **rat** forms to surveil the exterior and interior of the windmill while remaining invisible using his ***invisibility*** ability.) Meanwhile, Victor offers to aid the players in retrieving Franz’s children from the windmill, using his *misty step*, *fly*, and *greater invisibility* spells as-needed to assist with the rescue mission.
 
 > [!info]+ **Layout of the Windmill**
 > The windmill rests upon a small, bare, grassy hill approximately one thousand feet in diameter, with a hilltop approximately four hundred feet in diameter. Its north and western edges are flanked by the trees of the Svalich Wood, which press closely toward its base.
@@ -433,25 +436,25 @@ If one or more players knock on the door to [[06_Chapter 6 - Old Bonegrinder#O1.
 >
 > The hags do not gain access to the **_Shared Spellcasting_** feature ordinarily available to hag covens. However, each hag within the coven retains the use of her **_Innate Spellcasting_** and **_Night Hag Items_** features, as well as her **_Claws_**, **_Change Shape_**, **_Etherealness_**, and **_Nightmare Haunting_** actions.
 
-The players can convince Morgantha that they are visiting to purchase additional dream pastries with a successful DC 10 Charisma (Deception) check. 
+The players can convince Morgantha that they are visiting to purchase additional dream pastries with a successful **DC 10 Charisma (Deception)** check. 
 
-Alternatively, if the players use a different convincing cover story, they can convince Morgantha that they’re harmless with a successful DC 16 Charisma (Deception) check.
+Alternatively, if the players use a different convincing cover story, they can convince Morgantha that they’re harmless with a successful **DC 16 Charisma (Deception)** check.
 
 If the players successfully convince Morgantha that they're addicted to dream pastries or are otherwise harmless, Morgantha informs them that her current batch of dream pastries is still baking and invites them to remain until they're done. Until then, she's glad to make smalltalk.
 
-The players can also persuade Morgantha to invite her daughters down into the kitchen (in order to lure them away from the children upstairs) with a successful DC 16 Charisma (Persuasion or Deception) check. If they succeed in doing so, Bella and Offalia introduce themselves with a pair of clumsy curtsies.
+The players can also persuade Morgantha to invite her daughters down into the kitchen (in order to lure them away from the children upstairs) with a successful **DC 16 Charisma** (Persuasion or Deception) check. If they succeed in doing so, Bella and Offalia introduce themselves with a pair of clumsy curtsies.
 
 On a failure, a wary Morgantha claims that her daughters are, unfortunately, too busy to speak with visitors, but that she would be glad to relay any compliments or other comments to them should the players desire. She then asks the players what they thought of her dream pastries and what dreams they experienced upon eating them. 
 
-A player can ease Morgantha's paranoia by sharing a story of a beautiful dream that they experienced after eating a dream pastry and succeeding on a DC 16 Charisma (Deception) check, which succeeds automatically if the player is telling the truth. On a failure, Morgantha gets suspicious. (See **Morgantha Gets Suspicious** below.)
+A player can ease Morgantha's paranoia by sharing a story of a beautiful dream that they experienced after eating a dream pastry and succeeding on a **DC 16 Charisma (Deception**) check, which succeeds automatically if the player is telling the truth. On a failure, Morgantha gets suspicious. (See **Morgantha Gets Suspicious** below.)
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to [[06_Chapter 6 - Old Bonegrinder#O2. Bone Mill]] or [[06_Chapter 6 - Old Bonegrinder#O4. Domed Attic]] with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell).
+Unlike their mother, Bella and Offalia are easily distracted. They can be lured to [[06_Chapter 6 - Old Bonegrinder#O2. Bone Mill|O2. Bone Mill]] or [[06_Chapter 6 - Old Bonegrinder#O4. Domed Attic|O4. Domed Attic]] with a successful **DC 13 Charisma (Performance)** check and any reasonably relevant means (e.g., a *minor illusion* spell).
 ### Morgantha Gets Suspicious
 <span class="citation"><em>This scene takes place in Chapter 5: Area O1.</em></span>
 
-If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. Too wary to entertain their presence any longer, she says, regretfully, that she and her daughters are tired, and asks that the players return the following day to speak further. (A player who succeeds on a DC 17 Wisdom (Insight) check discerns that Morgantha is suspicious, not tired.)
+If the players fail to convince Morgantha of a comforting cover story, she immediately becomes suspicious of their motives and presence. Too wary to entertain their presence any longer, she says, regretfully, that she and her daughters are tired, and asks that the players return the following day to speak further. (A player who succeeds on a **DC 17 Wisdom (Insight)** check discerns that Morgantha is suspicious, not tired.)
 
-If the players leave, Morgantha watches them depart from the window, then ascends to  [[03_Chapter 3 - The Village of Barovia#E5b. Doru's Bedroom]] one round later to alert Bella and Offalia of the players' suspicious visit.
+If the players leave, Morgantha watches them depart from the window, then ascends to  [[06_Chapter 6 - Old Bonegrinder#O3. Bedroom|O3. Bedroom]] one round later to alert Bella and Offalia of the players' suspicious visit.
 
 If the players fail to leave, after a brief period of time (during which she reveals nothing of note to the players), Morgantha briefly excuses herself to withdraw a tray of dream pastries from the oven, then calls upstairs, “Girls, it’s time to taste the fresh batch!” (The dream pastries are obviously near-raw. Morgantha’s words are a signal informing the other two **night hags** that undesired guests have arrived in the windmill and must be dealt with.)
 
@@ -463,9 +466,9 @@ Assuming the players do not interfere, Bella sweeps across the room toward the f
 
 Morgantha replies, “Don’t worry, child—I’ll make sure those little squeaks come to an end.” Morgantha, Bella, and Offalia then immediately move to attack. 
 
-If the players are defeated, Morgantha also feeds the two strongest players the concoctions from [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor]] marked "Laughter" and "Mother's Milk," infecting one of them with cackle fever and poisoning the other with *pale tincture*. 
+If the players are defeated, Morgantha also feeds the two strongest players the concoctions from [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor|O1. Ground Floor]] marked "Laughter" and "Mother's Milk," infecting one of them with [[Cackle Fever (DMG)|cackle fever]] and poisoning the other with [[Pale Tincture (DMG)|pale tincture]]. 
 
-The players then reawaken 1d4 + 1 hours later in the attic of Old Bonegrinder. See **Escape From Old Bonegrinder** below for more information regarding the players’ escape.
+The players then reawaken 1d4 + 1 hours later in the attic of Old Bonegrinder. See [[#H7c. Escape From Old Bonegrinder]] below for more information regarding the players’ escape.
 ## H7b. Claiming the Heartstone
 ### The Binding Circle
 If the players successfully obtain the names of Morgantha’s daughters and rescue the children imprisoned inside of the windmill, [[Non-Player Characters#Lady Fiona Wachter|Lady Wachter]] directs her four **cult fanatics** to form a five-pointed formation around the base of the hill where Old Bonegrinder sits. 
@@ -494,7 +497,7 @@ Meanwhile, [[Non-Player Characters#Victor Vallakovich|Victor]] casts the *mage a
 
 Victor reminds the players that, according to *Ethereal Entities*, he'll need to remain close to the windmill—within sixty feet—in order use his _counterspell_ to protect the circle from the coven's ability to dispel it. He asks the players to protect him accordingly.
 
-As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor]]. (Morgantha released them in order to use the coven's ***Amphibious Cacophony*** lair action to lure the children back to the windmill.)
+As the players approach the windmill, if the night hags have noticed the children's disappearance, the hilltop around the windmill is now sparsely filled by the hundred **toads** once stored in Morgantha's wooden trunk in [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor|O1. Ground Floor]]. (Morgantha released them in order to use the coven's ***Amphibious Cacophony*** lair action to lure the children back to the windmill.)
 
 If the players aren't invisible, Morgantha leads her daughters out of the windmill to meet them as they approach, arranging herself and her daughters directly in front of the door of the windmill and greeting the players once they approach within thirty feet. The following conversation then unfolds unless diverted, though the hags attack in self-defense if necessary.
 
@@ -747,11 +750,11 @@ Before the binding circle is lowered, the players can also demand that Morgantha
 
 If Morgantha’s request for parley is denied, the coven fights to the death.
 ## H7c. Escape From Old Bonegrinder
-If the hags knock the players unconscious, the players awaken 1d4 + 1 hours after their defeat in [[06_Chapter 6 - Old Bonegrinder#O4. Domed Attic]]. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of [[Hempen Rope (50 feet) (PHB)|hempen rope]]. The two strongest members of the party have been infected with [[Cackle Fever (DMG)|cackle fever]] and poisoned with [[Pale Tincture (DMG)|pale tincture]], respectively.
+If the hags knock the players unconscious, the players awaken 1d4 + 1 hours after their defeat in [[06_Chapter 6 - Old Bonegrinder#O4. Domed Attic|O4. Domed Attic]]. They have been gagged and bound using ragged strips torn from bed sheets and dirty clothing, which have the statistics of [[Hempen Rope (50 feet) (PHB)|hempen rope]]. The two strongest members of the party have been infected with [[Cackle Fever (DMG)|cackle fever]] and poisoned with [[Pale Tincture (DMG)|pale tincture]], respectively.
 
 While the players’ legs are bound, they are **restrained.** While the players’ hands are bound, they move at half speed, have disadvantage on weapon attacks, and can’t use somatic components for spells. 
 
-The players find that they are also surrounded and guarded by six [[Dretch|dretches]], which Morgantha has summoned from the barrel of ichor in [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor]]. Their weapons, magic items, arcane or druidic focii, holy symbols, and armor have been confiscated and placed in the empty crate in [[03_Chapter 3 - The Village of Barovia#E5b. Doru's Bedroom]].
+The players find that they are also surrounded and guarded by six [[Dretch|dretches]], which Morgantha has summoned from the barrel of ichor in [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor|O1. Ground Floor]]. Their weapons, magic items, arcane or druidic focii, holy symbols, and armor have been confiscated and placed in the empty crate in [[06_Chapter 6 - Old Bonegrinder#O3. Bedroom|O3. Bedroom]].
 ### Morgantha’s Interrogation
 As soon as the players awaken, Morgantha mounts the ladder to the attic and leers over them, still wearing her humanoid disguise. She chooses a player, seemingly at random (though making sure to choose the player infected with cackle fever), and removes their gag, though not their binds. 
 
@@ -769,7 +772,7 @@ Morgantha then wishes the players “sweet dreams”  and exits the attic, leavi
 
 Morgantha is willing to bargain with the players by freeing them and lending them the use of her heartstone. She asks the ungagged player which among them is qualified to speak for the rest of the group. Morgantha then re-gags the first player, ungags the chosen player, and sweetly invites that player to join her on the ground floor below for a more in-depth and civilized discussion. She offers to unbind that player’s legs (though not their hands) as a sign of good faith, but warns them that any attempts to escape shall cause their friends to suffer gruesome punishments.
 
-If the player agrees to Morgantha’s terms, she unties the bindings around their legs (though not their hands) and instructs them to descend the ladder and stairs to the ground floor. Bella and Offalia are waiting to meet the player in [[03_Chapter 3 - The Village of Barovia#E5b. Doru's Bedroom]], and roughly guide them down the stairs before sitting them down on the toad-filled trunk in [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor]]. See **Morgantha's Request** below.
+If the player agrees to Morgantha’s terms, she unties the bindings around their legs (though not their hands) and instructs them to descend the ladder and stairs to the ground floor. Bella and Offalia are waiting to meet the player in [[06_Chapter 6 - Old Bonegrinder#O3. Bedroom|O3. Bedroom]], and roughly guide them down the stairs before sitting them down on the toad-filled trunk in [[06_Chapter 6 - Old Bonegrinder#O1. Ground Floor|O1. Ground Floor]]. See **Morgantha's Request** below.
 ### Morgantha’s Request
 If a player agrees to bargain with Morgantha for her heartstone and the players' escape, Morgantha follows them into the ground floor kitchen. Upon entering the room, the player can immediately see that the fire in the oven has reduced to embers, casting a dim, crimson glow on a lumpy, man-shaped form wrapped in a burlap sack within. Quiet, pleading grunts occasionally escape the figure in the oven. (The figure is actually the remaining three **dretches** stacked upon one another’s shoulders, and have strict orders from Morgantha to remain in the oven and occasionally make panicked grunts.)
 
@@ -816,13 +819,13 @@ If Morgantha abandons the players in the windmill attic, they are approached sho
 
 * The creatures guarding the players are **dretches**—dull-witted, repulsive demons with an ability to exude a fetid cloud of disgusting green gas when disturbed, which will surely alert the hags if triggered. However, the only language they speak is Abyssal, and their sense of hearing is quite poor, allowing the players and Majesto to scheme without the dretches noticing. (Majesto, a devil, finds the dretches disgusting and unpleasantly uncivilized.)
 * Lady Wachter, her cultists, and (if he wasn’t captured) [[Non-Player Characters#Victor Vallakovich|Victor]] are hidden in a grove a short ways away from the windmill. They’re glad to help the players escape if possible, though Lady Wachter isn’t confident in their ability to face the hags in open combat. 
-* While he’s here, Majesto is glad to serve as a distraction or helping hand, whichever the players require. (Majesto is quite selfish, however, and will refuse any course of action that might lead to his death—despite Lady Wachter’s ability to resummon him—unless the players remind him of their mission to save Stella Wachter and succeed on a DC 15 Charisma (Persuasion) check.)
+* While he’s here, Majesto is glad to serve as a distraction or helping hand, whichever the players require. (Majesto is quite selfish, however, and will refuse any course of action that might lead to his death—despite Lady Wachter’s ability to resummon him—unless the players remind him of their mission to save Stella Wachter and succeed on a **DC 15 Charisma (Persuasion)** check.)
 
 Every twenty minutes, two of the six **dretches** guarding the players return to the barrel of ichor and dissolve, whereupon Morgantha knocks on the barrel, summoning them anew, and sends them back to guard the players. (This “recycling” process takes approximately five minutes each time.)
 
 Shortly after dusk, Morgantha vanishes from the windmill, entering the Ethereal Plane to torment Franz in the Barovian refugee camp. Bella and Offalia remain in **O3. Bedroom** to guard Myrtle and Fyodor, taunting them with tales of their imminent and terrible deaths to pass the time. 
 
-Unlike their mother, Bella and Offalia are easily distracted. They can be lured to [[06_Chapter 6 - Old Bonegrinder#O2. Bone Mill]] or [[06_Chapter 6 - Old Bonegrinder#O4. Domed Attic]] with a successful DC 13 Charisma (Performance) check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
+Unlike their mother, Bella and Offalia are easily distracted. They can be lured to [[06_Chapter 6 - Old Bonegrinder#O2. Bone Mill|O2. Bone Mill]] or [[06_Chapter 6 - Old Bonegrinder#O4. Domed Attic|O4. Domed Attic]] with a successful **DC 13 Charisma (Performance)** check and any reasonably relevant means (e.g., a *minor illusion* spell). If rescued, Fyodor and Myrtle have no particular knowledge of Ireena or Ismark, and wish only to be returned to their father, Franz.
 
 If the players do not escape and rescue Myrtle and Fyodor by midnight, Morgantha returns soon thereafter and uses her lair actions to put the children to sleep. Bella and Offalia then slit the children’s throats, skin them, and grind their bones between the millstones in **O2. Bone Mill.** As they do, the vanes of the windmill turn, whipping through the chill night air of the hilltop as the hags perform their gruesome work.
 ### Finding a Cure

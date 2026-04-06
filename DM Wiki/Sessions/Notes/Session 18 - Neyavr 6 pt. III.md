@@ -15,7 +15,7 @@ arcs:
   - "[[Arc E - The Missing Vistana]]"
 plot_threads_introduced:
 plot_threads_advanced:
-combat: true
+combat: false
 has_recap: false
 tags:
   - cos
