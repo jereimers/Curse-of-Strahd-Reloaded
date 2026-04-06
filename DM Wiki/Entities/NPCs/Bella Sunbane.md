@@ -45,7 +45,7 @@ region: Wilderness
 ---
 # Portrait
 
-*No portrait available.*
+![[bella.png]]
 
 # Who they are
 

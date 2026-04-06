@@ -43,7 +43,7 @@ region: Wilderness
 ---
 # Portrait
 
-*No portrait available.*
+![[offalia.png]]
 
 # Who they are
 
