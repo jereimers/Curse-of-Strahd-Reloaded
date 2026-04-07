@@ -2,8 +2,8 @@
 type: session
 session_number: "19"
 status: planning
-play_date: 4/2/26
-play_date_key: 2026-04-02
+play_date: 4/8/26
+play_date_key: 2026-04-08
 barovian_dates:
   - "[[Neyavr 6]]"
 barovian_date_key: 0735-11-07
@@ -12,7 +12,7 @@ NPCs_met:
 arcs:
 plot_threads_introduced:
 plot_threads_advanced:
-combat: false
+combat: true
 has_recap: false
 tags:
   - cos
@@ -31,4 +31,3 @@ publish:
 
 ### At the Mill
 ![[Arc H - The Lost Soul#H7. Old Bonegrinder]]
-## Option 2: Krezk

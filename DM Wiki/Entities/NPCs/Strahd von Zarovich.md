@@ -2,65 +2,65 @@
 type: NPC
 name: Strahd von Zarovich
 aliases:
-- Strahd
-- Count
-- Devil
-- Darklord
-- Count Strahd
-- Devil Strahd
-- Lord Strahd
+  - Strahd
+  - Count
+  - Devil
+  - Darklord
+  - Count Strahd
+  - Devil Strahd
+  - Lord Strahd
 pronouns: he/him
 race: vampire
-class: null
-age: null
+class:
+age:
 gender: male
 creature_type: undead
-origin: null
-home_base: '[[Castle Ravenloft]]'
-current_location: null
+origin:
+home_base: "[[Castle Ravenloft]]"
+current_location:
 factions:
-- '[[Strahd''s Spies]]'
+  - "[[Strahd's Spies]]"
 arcs:
-- '[[Arc P - Ravenloft Heist]]'
-- '[[Arc J - The Stolen Gem]]'
-- '[[Arc D - St. Andral''s Feast]]'
-- '[[Arc U - Dreams of Dawn]]'
-- '[[Arc O - Dinner with the Devil]]'
-- '[[Arc Q - A Shining Beacon]]'
-- '[[Arc H - The Lost Soul]]'
-- '[[Arc I - The Walls of Krezk]]'
-- '[[Arc C - Into the Valley]]'
-- '[[Arc S - A Sword of Sunlight]]'
-- '[[Arc L - The Den of Wolves]]'
-- '[[Arc E - The Missing Vistana]]'
-- '[[Arc T - The Three Fanes]]'
-- '[[Arc R - Trials of the Mountain]]'
-- '[[Arc G - The Strazni Siblings]]'
-- '[[Arc B - Welcome to Barovia]]'
-- '[[Arc F - Lady Wachter''s Wish]]'
-- '[[Arc A - Escape From Death House]]'
-- '[[Arc K - The Fallen Abbey]]'
-- '[[Arc M - The Dragon''s Manor]]'
+  - "[[Arc P - Ravenloft Heist]]"
+  - "[[Arc J - The Stolen Gem]]"
+  - "[[Arc D - St. Andral's Feast]]"
+  - "[[Arc U - Dreams of Dawn]]"
+  - "[[Arc O - Dinner with the Devil]]"
+  - "[[Arc Q - A Shining Beacon]]"
+  - "[[Arc H - The Lost Soul]]"
+  - "[[Arc I - The Walls of Krezk]]"
+  - "[[Arc C - Into the Valley]]"
+  - "[[Arc S - A Sword of Sunlight]]"
+  - "[[Arc L - The Den of Wolves]]"
+  - "[[Arc E - The Missing Vistana]]"
+  - "[[Arc T - The Three Fanes]]"
+  - "[[Arc R - Trials of the Mountain]]"
+  - "[[Arc G - The Strazni Siblings]]"
+  - "[[Arc B - Welcome to Barovia]]"
+  - "[[Arc F - Lady Wachter's Wish]]"
+  - "[[Arc A - Escape From Death House]]"
+  - "[[Arc K - The Fallen Abbey]]"
+  - "[[Arc M - The Dragon's Manor]]"
 first_appearance_session: 7
 first_appearance_date: 1 Neyavr 735
-status: null
+status:
 cr: 15
-resonance: null
-emotions: null
-motivations: null
-inspirations: null
-vocal_notes: null
-signature_lines: null
-relationships: null
-portrait: '[[04-007.strahd-portrait.png]]'
+resonance:
+emotions:
+motivations:
+inspirations:
+vocal_notes:
+signature_lines:
+relationships:
+portrait: "[[04-007.strahd-portrait.png]]"
 portrait_credit: CoS-WotC
-handouts: null
+handouts:
 tags:
-- npc
-- cos
-CoS-R_ref: null
+  - npc
+  - cos
+CoS-R_ref:
 WotC_ref:
-- '[[20_Appendix D - Monsters and NPCs#Strahd von Zarovich]]'
+  - "[[20_Appendix D - Monsters and NPCs#Strahd von Zarovich]]"
 publish: true
 region: Ravenloft
 ---

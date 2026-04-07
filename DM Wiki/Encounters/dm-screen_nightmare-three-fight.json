@@ -1,0 +1,320 @@
+{
+	"fileType": "dm-screen",
+	"siteVersion": "2.26.1",
+	"w": 4,
+	"h": 4,
+	"ctc": false,
+	"fs": false,
+	"lk": false,
+	"ps": [
+		{
+			"x": 0,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "ray%20of%20sickness_xphb"
+			}
+		},
+		{
+			"x": 1,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "hold%20person_xphb"
+			}
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "lightning%20bolt_xphb"
+			}
+		},
+		{
+			"x": 2,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "phantasmal%20force_xphb"
+			}
+		},
+		{
+			"x": 2,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XGE",
+				"u": "cause%20fear_xge"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "crown%20of%20madness_xphb"
+			}
+		},
+		{
+			"x": 1,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "melf's%20acid%20arrow_xphb"
+			}
+		},
+		{
+			"x": 0,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "blindness%2fdeafness_xphb"
+			}
+		},
+		{
+			"x": 0,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "ray%20of%20enfeeblement_xphb"
+			}
+		},
+		{
+			"x": 0,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "gust%20of%20wind_xphb"
+			}
+		},
+		{
+			"x": 1,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XGE",
+				"u": "warding%20wind_xge"
+			}
+		},
+		{
+			"x": 2,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "dispel%20magic_xphb"
+			}
+		},
+		{
+			"x": 3,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "eyebite_xphb"
+			}
+		},
+		{
+			"x": 3,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 3,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "bestow%20curse_xphb"
+			}
+		},
+		{
+			"x": 3,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "misty%20step_xphb"
+			}
+		}
+	],
+	"ex": [
+		{
+			"x": 0,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XGE",
+				"u": "gust_xge"
+			}
+		},
+		{
+			"x": 0,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "fly_xphb"
+			}
+		},
+		{
+			"x": 0,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "misty%20step_xphb"
+			}
+		},
+		{
+			"x": 1,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "ice%20storm_xphb"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "blight_xphb"
+			}
+		},
+		{
+			"x": 2,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "greater%20invisibility_xphb"
+			}
+		},
+		{
+			"x": 2,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "chromatic%20orb_xphb"
+			}
+		},
+		{
+			"x": 3,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "fireball_xphb"
+			}
+		},
+		{
+			"x": 3,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "light_xphb"
+			}
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "spells.html",
+				"s": "XPHB",
+				"u": "prestidigitation_xphb"
+			}
+		}
+	]
+}

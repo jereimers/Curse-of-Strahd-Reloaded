@@ -2,76 +2,92 @@
 type: NPC
 name: Rahadin
 aliases:
-- Kinslayer
+  - Kinslayer
 pronouns: he/him
 race: Dusk Elf
-class: null
-age: null
+class:
+age:
 gender: male
 creature_type: humanoid
-origin: null
-home_base: null
-current_location: null
-factions: null
+origin:
+home_base:
+current_location:
+factions:
 arcs:
-- '[[Arc E - The Missing Vistana]]'
-- '[[Arc P - Ravenloft Heist]]'
-- '[[Arc T - The Three Fanes]]'
-- '[[Arc J - The Stolen Gem]]'
-- '[[Arc D - St. Andral''s Feast]]'
-- '[[Arc B - Welcome to Barovia]]'
-- '[[Arc U - Dreams of Dawn]]'
-- '[[Arc R - Trials of the Mountain]]'
-- '[[Arc S - A Sword of Sunlight]]'
-- '[[Arc K - The Fallen Abbey]]'
-- '[[Arc M - The Dragon''s Manor]]'
-- '[[Arc O - Dinner with the Devil]]'
-- '[[Arc H - The Lost Soul]]'
+  - "[[Arc E - The Missing Vistana]]"
+  - "[[Arc P - Ravenloft Heist]]"
+  - "[[Arc T - The Three Fanes]]"
+  - "[[Arc J - The Stolen Gem]]"
+  - "[[Arc D - St. Andral's Feast]]"
+  - "[[Arc B - Welcome to Barovia]]"
+  - "[[Arc U - Dreams of Dawn]]"
+  - "[[Arc R - Trials of the Mountain]]"
+  - "[[Arc S - A Sword of Sunlight]]"
+  - "[[Arc K - The Fallen Abbey]]"
+  - "[[Arc M - The Dragon's Manor]]"
+  - "[[Arc O - Dinner with the Devil]]"
+  - "[[Arc H - The Lost Soul]]"
 first_appearance_session: 5
 first_appearance_date: 3 Neyavr 735
 status: alive
 cr: 5
-resonance: 'Rahadin should inspire anger for his condescension and unease for his deadly calm and undying
-  devotion to carrying out Strahd’s will.
-
-  >'
+resonance: |-
+  Rahadin should inspire anger for his condescension and unease for his deadly calm and undying devotion to carrying out Strahd’s will.
+  >
 emotions:
-- calm
-- disdainful
-- satisfied
-- bored
-- or irritated
+  - calm
+  - disdainful
+  - satisfied
+  - bored
+  - or irritated
 motivations:
-- serve Strahd’s will as his faithful
-- ever-loyal servant—no matter the cost to himself or others
+  - serve Strahd’s will as his faithful
+  - ever-loyal servant—no matter the cost to himself or others
 inspirations:
-- Tywin Lannister (*Game of Thrones*)
-- Severus Snape (*Harry Potter*)
-- Agent Smith (*The Matrix*)
-vocal_notes: null
-signature_lines: null
-relationships: null
-portrait: null
-portrait_credit: null
-handouts: null
+  - Tywin Lannister (*Game of Thrones*)
+  - Severus Snape (*Harry Potter*)
+  - Agent Smith (*The Matrix*)
+vocal_notes:
+signature_lines:
+relationships:
+portrait:
+portrait_credit:
+handouts:
 tags:
-- npc
-- cos
-CoS-R_ref: null
-WotC_ref: null
-publish: false
+  - npc
+  - cos
+CoS-R_ref:
+WotC_ref:
+publish: true
 region: Wilderness
 ---
+# Portrait
+![[Rahadin-calebisdrawing.jpg]]
+
 # Who they are
 
+Rahadin is [[Strahd von Zarovich|Strahd]]'s chamberlain and most trusted servant, a dusk elf known by the grim title of "the Kinslayer." He is surrounded by a horrifying aura—the psychic screaming of thousands of murdered souls that he has personally killed. The sound is so terrible that merely approaching him becomes an ordeal of willpower.
 
 
 # What the party knows
 
+The party has encountered Rahadin twice, both times as Strahd's emissary carrying out his master's will with cold efficiency:
+
+- He delivered Strahd's black carriage at the [[River Ivlis Crossroads]], accompanied by [[Escher]]
+- He delivered Strahd's dinner invitation to the party in [[Town of Vallaki|Vallaki]], remaining utterly impassive even when the party defaced the invitation in increasingly absurd ways
+- He presided over the execution of [[Milivoj]] and [[Henrik van der Voort]] for their role in stealing [[The Bones of St. Andral]]
+- The party successfully argued for clemency, convincing Rahadin to reduce the death sentences to flogging—proving he can be reasoned with, though he plays the role of a harsh, adversarial judge
+- He rides an ash-gray *phantom steed* that he can summon at will
+- His loyalty to Strahd is absolute and unquestioning
 
 
 # Personality
 
+Rahadin embodies cold, unwavering professionalism. He remains calm and composed in all circumstances, treating even the most absurd provocations with detached disdain. His demeanor is that of a dutiful servant carrying out distasteful but necessary tasks—bored by resistance, satisfied when his duties are complete, and irritated only when delayed.
+
+He shows no remorse for the thousands of souls that scream around him, nor does he take pleasure in cruelty for its own sake. Everything he does serves one purpose: executing Strahd's will as his faithful, ever-loyal servant—no matter the cost to himself or others.
+
+When challenged, Rahadin becomes adversarial but fair, willing to hear arguments and adjust his actions if sufficiently convinced—but only within the bounds of what he believes serves his master's interests.
 
 
 # Where we've seen them

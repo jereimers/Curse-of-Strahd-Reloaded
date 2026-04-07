@@ -65,6 +65,8 @@ As for the "debt" she'd mentioned—that was an old obligation, dating back cent
 
 # Old Bonegrinder
 
+![[06-002.windmill.png]]
+
 When [[Old Bonegrinder]]'s crumbling windmill finally came into view atop its bare, grassy hill, you withdrew into a darkened copse of trees beside the Old Svalich Road to plan your assault. [[Lady Fiona Wachter|Lady Wachter]] gathered everyone close—[[Victor Vallakovich|Victor]], her four hooded cultists, and your group—and began asking the critical questions: How many hags resided within? How would you obtain their true names? Were the children inside, and how would you extract them safely?
 
 Majesto, Lady Wachter's imp familiar, volunteered for reconnaissance duty. The tiny fiend transformed into a crow and flew toward the windmill, his form flickering out of sight as he activated his innate invisibility. Through their psychic link, [[Lady Fiona Wachter|Lady Wachter]] relayed his observations: three hags occupied the building across three floors. The ground floor held a bone mill and kitchen where an elderly woman worked grinding bones. The second floor contained more grim work—bags of flour mixed with bone dust. The third floor held two children, huddled in stacked crates in a bedroom.
