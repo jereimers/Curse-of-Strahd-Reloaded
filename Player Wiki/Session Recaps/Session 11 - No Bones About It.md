@@ -118,3 +118,7 @@ From here, the party immediately departed for the coffin-maker's shop, being gui
 Lucian, assuaging the players' fear that they were walking into danger, revealed that he carries the holy symbol of Tasha Petrovna—his ancestor and a mighty follower of Saint Markovia—and promised that he can handle himself in a scrap.
 
 Passing through the [[Arasek Stockyard]] en route to Henrik's shop, the party beheld a sturdy carnival wagon covered in faded and peeling paint at the south end of the yard. Despite its aged appearance, the wagon bore a bright and freshly-painted sign reading "Rictavio's Carnival of Wonders". Their interests were piqued, but they chose to leave the wagon for now and continue on to Henrik's workshop. They arrived to find an uninviting two-story structure with a sign shaped like a coffin hanging above the front door. All of the window shutters were closed up tight, and a deathly silence surrounded the establishment.
+
+# Navigation
+- Previous Session: [[Session 10 - The Grinchident]]
+- Next Session: [[Session 12 - Into the Bone Zone]]

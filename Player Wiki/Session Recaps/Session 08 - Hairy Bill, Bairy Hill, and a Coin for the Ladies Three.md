@@ -89,6 +89,10 @@ Some recognized [[Parriwimple]] and called out his name; others beheld [[Ireena 
 
 And there, surrounded by hungry stares, wounded pride, and the looming walls of [[Town of Vallaki|Vallaki]]—our party drew breath.
 
+# Navigation
+- Previous Session: [[Session 07 - The Tarokka Reading]]
+- Next Session: [[Session 09 - Walls Keep Out More Than Wolves]]
+
 %%
 
 %%

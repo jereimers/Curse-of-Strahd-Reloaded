@@ -178,3 +178,7 @@ There was something painful in his sincerity, a loneliness that went bone-deep. 
 As the sun set (or rather, as the grey sky darkened from grey to black), you settled in around the central fire. The warmth was welcome after the cold journey, and the wine, while strange, was strong and warming. The Vistani were welcoming, the music was lively, and for the first time since entering this cursed land, you felt something approaching safety.
 
 But [[Madam Eva]]'s words echoed in your mind: *You are being watched. A shadow follows you.* And as you glanced around the firelight, you couldn't help but wonder which of these friendly faces might be the spy. 
+
+# Navigation
+- Previous Session: [[Session 04 - Defending the Eastern Barricade]]
+- Next Session: [[Session 06 - The Game of Stories]]

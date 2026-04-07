@@ -59,3 +59,7 @@ Departing the manor at dusk, the party had a brief but tense run-in with [[Izek 
 After Ireena safely to the church, the party retired to the taproom at the [[Blue Water Inn]]. Upon arrival, [[Urwin Martikov|Urwin]] informed them that, during the day, a courier in the employ of [[Lady Fiona Wachter|Lady Wachter]] came and delivered a letter addressed to [[Arden Nalero|Arden]]:
 
 ![[Lady Wachter's Letter of Invitation#Description]]
+
+# Navigation
+- Previous Session: [[Session 11 - No Bones About It]]
+- Next Session: [[Session 13 - The Lost and The Found]]

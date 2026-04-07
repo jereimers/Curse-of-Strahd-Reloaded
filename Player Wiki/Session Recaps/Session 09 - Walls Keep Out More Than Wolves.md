@@ -55,6 +55,9 @@ The evening’s entertainment belonged to [[Rictavio]], the carnival ringmaster,
 
 Disaster loomed, but [[Rictavio]] defused it with theatrical exhaustion and an abrupt retirement. The party followed suit, retreating upstairs to collapse together in one oversized bed, finally surrendering to sleep after a day spent skirting walls—some of stone, some of fear, and some far harder to climb.
 
+# Navigation
+- Previous Session: [[Session 08 - Hairy Bill, Bairy Hill, and a Coin for the Ladies Three]]
+- Next Session: [[Session 10 - The Grinchident]]
 %%
 
 %%

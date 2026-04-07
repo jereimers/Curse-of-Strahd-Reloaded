@@ -29,3 +29,7 @@ publish: true
 # Streets of Barovia
 
 # Blood on the Vine
+
+# Navigation
+- Previous Session: [[Session 01 - Arrivals]]
+- Next Session: [[Session 03 - Kolyan's Burial]]

@@ -29,3 +29,7 @@ publish: true
 # The tavern
 
 # Preparing for battle
+
+# Navigation
+- Previous Session: [[Session 02 - Out of Death House]]
+- Next Session: [[Session 04 - Defending the Eastern Barricade]]

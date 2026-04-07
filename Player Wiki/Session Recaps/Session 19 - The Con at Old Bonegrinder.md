@@ -115,3 +115,7 @@ Morgantha watched this display with growing concern—but also, notably, with a 
 The three hags exchanged disappointed glances but showed no signs of suspicion. Morgantha saw the businessmen to the door with polite regrets about the missed opportunity. [[Varnish Gothorn|Varnish]] and [[Arden Nalero|Arden]] maintained their professional demeanors until they were out of sight, then hurried to rejoin the rest of your group.
 
 You regrouped in the trees, the two rescued children clinging to [[Ireena Kolyana|Ireena]], who spoke to them in soothing tones. [[Lady Fiona Wachter|Lady Wachter]] examined the coven contract with grim satisfaction—she now had everything she needed to bind the hags. The mission had been a complete success. Fyodor and Myrtle would be returned to their uncle's care at the refugee camp, and soon, very soon, you would return to [[Old Bonegrinder]] to put a permanent end to the hags' vile business.
+
+# Navigation
+- Previous Session: [[Session 18 - Brokering Peace]]
+- Next Session: TBP 4/8/26

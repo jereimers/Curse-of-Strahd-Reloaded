@@ -25,3 +25,6 @@ publish: true
 # The Mists
 
 # Death House, Part 1
+
+# Navigation
+- Next Session: [[Session 02 - Out of Death House]]

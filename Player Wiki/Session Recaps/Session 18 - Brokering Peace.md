@@ -241,3 +241,7 @@ You helped [[Milivoj]] and [[Henrik van der Voort|Henrik]] to their feet and esc
 The [[Blue Water Inn]] felt warmer when you returned, the firelight more welcoming. But the memory of [[Rahadin]]'s flat, emotionless voice lingered: *Justice has been done.*
 
 In Strahd's Barovia, mercy was measured in lashes and screams. 
+
+# Navigation
+- Previous Session: [[Session 17 - The Tower and The Truth]]
+- Next Session: [[Session 19 - The Con at Old Bonegrinder]]

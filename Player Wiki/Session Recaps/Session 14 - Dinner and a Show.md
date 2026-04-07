@@ -331,3 +331,7 @@ The others laughed despite the grimness of the situation. It was decided: Ireena
 As they departed [[St. Andral's Church]], the weight of what was coming settled over them. Tomorrow morning, they would receive poisoned wine and Izek's schedule from Lady Wachter's associate. And then they would hunt.
 
 But tonight, they would rest. Tomorrow, the real work began.
+
+# Navigation
+- Previous Session: [[Session 13 - The Lost and The Found]]
+- Next Session: [[Player Wiki/Session Recaps/Session 15 - Killing Izek|Session 15 - Killing Izek]]

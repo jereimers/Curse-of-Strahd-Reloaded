@@ -180,3 +180,7 @@ He opened the wagon door, revealing a young [[Vistani]] girl with dark hair, oli
 The girl smiled at the party—a warm, knowing smile that seemed far too old for her young face. "Thank you for following the trail I left," she said. "I knew someone would come."
 
 And there, in the dim light of the Arasek Stockyard, with a wagon full of secrets and a lifetime of mysteries unfolding, the truth of Arabelle's disappearance finally came to light.
+
+# Navigation
+- Previous Session: [[Session 16 - The Lady, the Witch, and the Ringmaster]]
+- Next Session: [[Session 18 - Brokering Peace]]

@@ -62,3 +62,7 @@ The crew ate mutton stew and Barovian wine as the tales were shared:
 ## Aftermath and Departure
 
 [[Ireena Kolyana|Ireena]] was the winner of the game and redistributed some of the wagered items. [[Arturi Radanavich|Arturi]] explained that he is cursed to be hunted by undead each night and must spend the evening hiding in a large tree for the sake of his new friends' safety. The players successfully evaded the 'shadow' alluded to by [[Madam Eva]] and swiftly arrived at the Tser [[River Ivlis Crossroads|Crossroads]] unhindered, their agreed-upon meeting place and a familiar site of the [[DM Wiki/Entities/NPCs/Strahd von Zarovich|Devil Strahd]]'s first encounter with the party.
+
+# Navigation
+- Previous Session: [[Session 05 - Out of Barovia]]
+- Next Session: [[Session 07 - The Tarokka Reading]]

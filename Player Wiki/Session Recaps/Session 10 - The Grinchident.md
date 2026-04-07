@@ -22,6 +22,10 @@ publish: true
 %% A session is a unit of play in which the players meet in person, enact one or more scenes/encounters, and then adjourn. Sessions have recaps and dates, and can span across boundaries of arc/act. %%
 
 ![[grinch.png]]
+
+# Navigation
+- Previous Session: [[Session 09 - Walls Keep Out More Than Wolves]]
+- Next Session: [[Session 11 - No Bones About It]]
 %%
 # Where the Party is now
 ## Location

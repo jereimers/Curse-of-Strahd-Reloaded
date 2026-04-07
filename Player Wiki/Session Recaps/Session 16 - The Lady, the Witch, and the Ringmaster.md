@@ -244,3 +244,7 @@ You stood there in the clearing as the implications cascaded through your minds.
 The details of motive, means, and opportunity still eluded you. But one thing was now undeniably clear: [[Rictavio]] knew something about [[Arabelle]]'s disappearance. And when you returned to Vallaki, you would get answers—one way or another.
 
 The session ended there, in that forest clearing, with yellow paint on your fingers and a hundred new questions burning in your minds. 
+
+# Navigation
+- Previous Session: [[Player Wiki/Session Recaps/Session 15 - Killing Izek|Session 15 - Killing Izek]]
+- Next Session: [[Session 17 - The Tower and The Truth]]

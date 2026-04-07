@@ -364,3 +364,7 @@ Varnish studied it carefully. "This is... unusual. Powerful, certainly. But I'm 
 They placed Izek's frozen head in the burlap sack Ernst had provided. The demon arm was strapped across Arden's back like some kind of grotesque trophy. And with the deed done, they turned south toward Vallaki.
 
 [[Lady Fiona Wachter|Lady Wachter]] was expecting them. And they had a delivery to make.
+
+# Navigation
+- Previous Session: [[Player Wiki/Session Recaps/Session 14 - Dinner and a Show|Session 14 - Dinner and a Show]]
+- Next Session: [[Session 16 - The Lady, the Witch, and the Ringmaster]]

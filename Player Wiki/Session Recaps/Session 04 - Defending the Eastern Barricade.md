@@ -25,3 +25,7 @@ publish: true
 # Coming to Ismark's Aid
 
 # Rahadin's Proclamation
+
+# Navigation
+- Previous Session: [[Session 03 - Kolyan's Burial]]
+- Next Session: [[Session 05 - Out of Barovia]]

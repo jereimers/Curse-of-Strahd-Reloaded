@@ -373,3 +373,7 @@ As if on cue, Haliq reappeared bearing a silver tray with crystal glasses. He se
 Lady Wachter settled into a high-backed chair with the bearing of someone accustomed to command, crossed her legs elegantly, and regarded her guests with cool, appraising eyes. "Now then," she said, taking a sip of her brandy, "shall we get acquainted?"
 
 And so the evening's real conversation began. 
+
+# Navigation
+- Previous Session: [[Session 12 - Into the Bone Zone]]
+- Next Session: [[Player Wiki/Session Recaps/Session 14 - Dinner and a Show|Session 14 - Dinner and a Show]]
