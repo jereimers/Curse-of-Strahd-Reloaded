@@ -1,0 +1,13 @@
+{
+  "includeFirstLineAsNoteHeading": false,
+  "excludeFirstLineInNote": true,
+  "openNewNote": false,
+  "headingFormat": "#",
+  "newFileLocation": 2,
+  "customFolder": "Source/CoS-WotC/H3_Sections",
+  "fileNamePrefix": "",
+  "transcludeByDefault": false,
+  "noteLinkTemplate": "",
+  "refactoredNoteTemplate": "",
+  "normalizeHeaderLevels": true
+}

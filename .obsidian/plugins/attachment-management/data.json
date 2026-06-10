@@ -1,0 +1,23 @@
+{
+  "language": "en",
+  "attachPath": {
+    "attachmentRoot": "",
+    "saveAttE": "obsFolder",
+    "attachmentPath": "${notepath}/${notename}",
+    "attachFormat": "{{originalname}}",
+    "type": "GLOBAL"
+  },
+  "dateFormat": "YYYY-MM-DD_HH-mm-ssSSS",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "Source/CoS-WotC/;Source/CoS-R;Source/homebrew",
+  "excludePathsArray": [
+    "Source/CoS-WotC/",
+    "Source/CoS-R",
+    "Source/homebrew"
+  ],
+  "excludeSubpaths": true,
+  "originalNameStorage": [],
+  "overridePath": {},
+  "disableNotification": false
+}

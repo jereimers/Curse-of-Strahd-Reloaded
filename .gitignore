@@ -1,8 +1,6 @@
-.obsidian/*.json
 .DS_Store
 .idea/
 .venv/
-.obsidian/plugins/
 
 # Skyhorn one-shot
 Source/The\ Secrets\ of\ Skyhorn\ Lighhouse\ V8-1

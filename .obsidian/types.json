@@ -1,0 +1,30 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "type": "text",
+    "key_factions": "multitext",
+    "relationships": "multitext",
+    "arc(s)": "multitext",
+    "keywords": "multitext",
+    "responds_to": "multitext",
+    "npc_presence": "multitext",
+    "combat_possible?": "checkbox",
+    "has_vignette": "checkbox",
+    "loot": "multitext",
+    "level": "number",
+    "barovian_date": "multitext",
+    "location(s)": "multitext",
+    "barovian_dates": "multitext",
+    "combat?": "checkbox",
+    "has_recap?": "checkbox",
+    "barovian_date(s)": "multitext",
+    "date": "date",
+    "WotC_ref": "multitext",
+    "NPCs_involved": "multitext",
+    "play_date_key": "date",
+    "ai_generated?": "checkbox",
+    "model": "multitext"
+  }
+}

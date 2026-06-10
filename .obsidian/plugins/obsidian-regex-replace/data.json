@@ -1,0 +1,10 @@
+{
+  "findText": "<!-- .?DM ONLY -->",
+  "replaceText": "%%",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": false
+}

@@ -1,0 +1,450 @@
+{
+  "main": {
+    "id": "a17c23187c006582",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe3c103ce232165d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6c1b275a27e9e3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Wiki/Session Recaps/Session 19 - The Con at Old Bonegrinder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 19 - The Con at Old Bonegrinder"
+            }
+          },
+          {
+            "id": "9f03dfb78d3e30d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Wiki/Sessions/Notes/Session 20 - Neyavr 7 pt. II.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 20 - Neyavr 7 pt. II"
+            }
+          },
+          {
+            "id": "9f8685a7549fd056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/homebrew/The Path Variable/artefacts_from_planning/colmcast_v2_roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "colmcast_v2_roadmap"
+            }
+          },
+          {
+            "id": "5f6cba8646d3e348",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Wiki/Entities/NPCs/The Nightmare Three.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Nightmare Three"
+            }
+          },
+          {
+            "id": "fa6392e2d3b6d6cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/CoS-Reloaded/Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arc H - The Lost Soul"
+            }
+          },
+          {
+            "id": "5dd5550b958bbde2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/CoS-Reloaded/Act II - The Shadowed Town/Arc I - The Walls of Krezk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arc I - The Walls of Krezk"
+            }
+          },
+          {
+            "id": "2c9b0efbf7d2f648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arc J - The Stolen Gem"
+            }
+          },
+          {
+            "id": "87ed6a4b43fee053",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/CoS-Reloaded/Act III - The Broken Land/Arc K - The Fallen Abbey.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arc K - The Fallen Abbey"
+            }
+          },
+          {
+            "id": "7fd449c5524f76b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/5etools/Items/Pale Tincture (DMG).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pale Tincture (DMG)"
+            }
+          },
+          {
+            "id": "5b6e8ab4f65896c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/5etools/Diseases/Cackle Fever (DMG).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cackle Fever (DMG)"
+            }
+          },
+          {
+            "id": "5eeff1bcef715c96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/CoS-WotC/00_full-source.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_full-source"
+            }
+          },
+          {
+            "id": "1831daa0fa29ea5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Wiki/Entities/NPCs/Lady Fiona Wachter.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lady Fiona Wachter"
+            }
+          },
+          {
+            "id": "98661dc7bd447180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/5e-database/Monsters/Imp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imp"
+            }
+          },
+          {
+            "id": "832a1a728a61b0c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Wiki/Entities/NPCs/Parriwimple.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Parriwimple"
+            }
+          },
+          {
+            "id": "678f38321e565c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Source/5e-database/Features/Paladin/Divine Smite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Divine Smite"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "03ff6c51620956ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "863f696fd52a2147",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3809d57b39a29b58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "56f3b2f8d5e2a7e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "GitHub",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2079c132e23e83d7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316.5
+  },
+  "right": {
+    "id": "780a51324bfe540f",
+    "type": "split",
+    "children": [
+      {
+        "id": "deafa3916e36b69e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "831c53d93c7b887e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Source/CoS-Reloaded/Act II - The Shadowed Town/Arc H - The Lost Soul.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Arc H - The Lost Soul"
+            }
+          },
+          {
+            "id": "3883d587fa059df3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Source/CoS-Reloaded/Act III - The Broken Land/Arc J - The Stolen Gem.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Arc J - The Stolen Gem"
+            }
+          },
+          {
+            "id": "ade09c10fbd3adeb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8fffb512ad2965f7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "67047f28f77dd8aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Source/homebrew/The Path Variable/artefacts_from_planning/colmcast_v2_roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of colmcast_v2_roadmap"
+            }
+          },
+          {
+            "id": "6d0dad60e3f96840",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "_other/templates/daily note.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "broken-links:View broken links": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
+    }
+  },
+  "active": "56f3b2f8d5e2a7e9",
+  "lastOpenFiles": [
+    "Source/homebrew/The Path Variable/artefacts_from_planning/character_creation_flow.md",
+    "DM Wiki/Sessions/Recap Drafts/Session 20.md",
+    "Source/homebrew/The Path Variable/lore/welcome_message.md",
+    "Source/homebrew/The Path Variable/lore/preset_character_list.md",
+    "Source/homebrew/The Path Variable/lore/CC breadcrumb3.md",
+    "Source/homebrew/The Path Variable/guides/Westworld_Car.md",
+    "Source/homebrew/The Path Variable/guides/Train_to_Busan_Car.md",
+    "Source/homebrew/The Path Variable/guides/reward_item_cards.md",
+    "Source/homebrew/The Path Variable/guides/pokerRules.md",
+    "Source/homebrew/The Path Variable/guides/pirate_signal_audio_lines.md",
+    "Source/homebrew/The Path Variable/guides/Pigzits_Express_Car.md",
+    "Source/homebrew/The Path Variable/guides/Engine_Car.md",
+    "Source/homebrew/The Path Variable/guides/ColmCassidy_character_details.md",
+    "Source/homebrew/The Path Variable/guides/Casino_Royale_Car.md",
+    "Source/homebrew/The Path Variable/artefacts_from_planning/Prep Snapshot Encounter Tuning.md",
+    "Source/homebrew/The Path Variable/artefacts_from_planning/MCP-guide.md",
+    "Source/homebrew/The Path Variable/lore/welcome_message.txt.md",
+    "Source/homebrew/The Path Variable/lore/preset_character_list.txt.md",
+    "Source/homebrew/The Path Variable/lore/CC breadcrumb3.txt.md",
+    "Source/homebrew/The Path Variable/guides/Westworld_Car.txt.md",
+    "Source/homebrew/The Path Variable/guides/Train_to_Busan_Car.txt.md",
+    "Source/homebrew/The Path Variable/guides/reward_item_cards.txt.md",
+    "Source/homebrew/The Path Variable/guides/pokerRules.txt.md",
+    "Source/homebrew/The Path Variable/guides/pirate_signal_audio_lines.txt.md",
+    "Source/homebrew/The Path Variable/guides/Pigzits_Express_Car.txt.md",
+    "Source/homebrew/The Path Variable/guides/Engine_Car.txt.md",
+    "DM Wiki/Entities/Stat_Blocks/Acolyte.png",
+    "Source/CoS-Reloaded/Appendices/images/the-bonegrinder-coven.png",
+    "DM Wiki/Encounters/dm-screen_nightmare-three-fight.json",
+    "Source/CoS-Reloaded/Appendices/images/offalia.png",
+    "Source/CoS-Reloaded/Appendices/images/bella.png",
+    "Source/homebrew/images/arabelle_square.png.sb-0e67ab65-ub7fCB",
+    "Source/homebrew/images/arabelle_square.png",
+    "Source/homebrew/images/rudolph-van-richten_square.png.sb-0e67ab65-JzIclM",
+    "Source/homebrew/images/rudolph-van-richten_square.png",
+    "Source/CoS-WotC/WotC Maps/map-02.01-barovia.jpg",
+    "_scripts/transform_citations.py",
+    "DM Wiki/Entities/Areas/Ruins of Berez",
+    "Source/5etools/Subclasses/Wizard",
+    "Source/5etools/Subclasses/Warlock",
+    "Source/5etools/Subclasses/Sorcerer",
+    "Source/5etools/Subclasses/Rogue",
+    "Source/5etools/Subclasses/Ranger",
+    "Source/CoS-WotC/WotC Images/mistfiend.webp",
+    "Source/CoS-WotC/WotC Images/ghost.png",
+    "Source/CoS-WotC/WotC Images/phantom-warrior.png",
+    "Source/CoS-Reloaded/Act I - Into the Mists/Act I Plot Map.canvas"
+  ]
+}
